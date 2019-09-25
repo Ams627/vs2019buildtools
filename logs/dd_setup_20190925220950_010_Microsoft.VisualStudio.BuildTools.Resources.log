@@ -1,0 +1,8 @@
+[1a64:0017][2019-09-25T22:10:54] Opening the package for processing
+[1a64:0017][2019-09-25T22:10:54] Using package payload to get the embedded manifest
+[1a64:0017][2019-09-25T22:10:54] Getting list of files within the package
+[1a64:0017][2019-09-25T22:10:54] Processing file /Contents/Licenses/BuildTools/1033/ThirdPartyNotices.txt
+[1a64:0017][2019-09-25T22:10:54] Started: Copying file /Contents/Licenses/BuildTools/1033/ThirdPartyNotices.txt to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Licenses\BuildTools\1033\ThirdPartyNotices.txt
+[1a64:0017][2019-09-25T22:10:54] Completed: Copying file /Contents/Licenses/BuildTools/1033/ThirdPartyNotices.txt to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Licenses\BuildTools\1033\ThirdPartyNotices.txt
+[1a64:0017][2019-09-25T22:10:54] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Licenses\BuildTools\1033\ThirdPartyNotices.txt'.
+[1a64:0017][2019-09-25T22:10:54] Package executed successfully. Return code: 0

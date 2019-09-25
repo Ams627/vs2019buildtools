@@ -1,0 +1,32 @@
+Beginning of the log. Start Time: 25/09/2019 22:09:16
+VisualStudio Bootstrapper:25/09/2019 22:09:16: Commandline arguments = --noweb,--env,_SFX_CAB_EXE_PACKAGE:C:\vs2019layout\vsbuildtools2019\vs_buildtools.exe _SFX_CAB_EXE_ORIGINALWORKINGDIR:C:\vs2019layout\vsbuildtools2019
+VisualStudio Bootstrapper:25/09/2019 22:09:16: Parent process name = vs_buildtools
+VisualStudio Bootstrapper:25/09/2019 22:09:16: Parent process product version = 16.3.29318.209
+VisualStudio Bootstrapper:25/09/2019 22:09:16: CampaignId = 
+VisualStudio Bootstrapper:25/09/2019 22:09:16: ResponseId not available in 'vs_setup_bootstrapper.config'. Trying to parse filename.
+VisualStudio Bootstrapper:25/09/2019 22:09:16: loading config settings: -update --update --layout -offline --offline --locale --layout --originalworkingdir --installLayoutPath --env
+VisualStudio Bootstrapper:25/09/2019 22:09:17: DownloadURL = https://aka.ms/vs/16/release/installer
+VisualStudio Bootstrapper:25/09/2019 22:09:17: InstallLocation = C:\Program Files (x86)\Microsoft Visual Studio\Installer
+VisualStudio Bootstrapper:25/09/2019 22:09:17: OfflineFilePath = C:\vs2019layout\vsbuildtools2019\vs_installer.opc
+VisualStudio Bootstrapper:25/09/2019 22:09:17: LayoutLocation = 
+VisualStudio Bootstrapper:25/09/2019 22:09:17: ExecutableArguments = /finalizeInstall install --layoutPath "C:\vs2019layout\vsbuildtools2019" --in "C:\vs2019layout\vsbuildtools2019\Response.json" --noweb --locale en-GB --activityId "63e6fdee-5de3-4b94-9b25-e1d7c86b57a4"
+VisualStudio Bootstrapper:25/09/2019 22:09:17: OSVersion = Microsoft Windows NT 10.0.18362.0
+VisualStudio Bootstrapper:25/09/2019 22:09:17: Starting to detect the existing VS and .NET...
+VisualStudio Bootstrapper:25/09/2019 22:09:17: Finished detecting the existing VS and .Net
+VisualStudio Bootstrapper:25/09/2019 22:09:21: Using Offline package: C:\vs2019layout\vsbuildtools2019\vs_installer.opc
+VisualStudio Bootstrapper:25/09/2019 22:09:21: Saving Certificates to layout folder
+VisualStudio Bootstrapper:25/09/2019 22:09:26: Package signature verification returned Success for path: C:\vs2019layout\vsbuildtools2019\vs_installer.opc
+VisualStudio Bootstrapper:25/09/2019 22:09:26: Current Optin root path does not exists
+VisualStudio Bootstrapper:25/09/2019 22:09:26: Set OptIn = 1
+VisualStudio Bootstrapper:25/09/2019 22:09:26: Extracting file 'vs_installer.version.json' from package stream.
+VisualStudio Bootstrapper:25/09/2019 22:09:26: File found 'vs_installer.version.json' in package stream.
+VisualStudio Bootstrapper:25/09/2019 22:09:26: Comparing client candidate version '2.3.2209.906' to autoSelfUpdateMinVersion '2.3.2209.906'
+VisualStudio Bootstrapper:25/09/2019 22:09:30: Beginning extracting files to C:\Program Files (x86)\Microsoft Visual Studio\Installer.
+VisualStudio Bootstrapper:25/09/2019 22:09:30: Extracting 'C:\vs2019layout\vsbuildtools2019\vs_installer.opc' to 'C:\Program Files (x86)\Microsoft Visual Studio\Installer'.
+VisualStudio Bootstrapper:25/09/2019 22:09:34: Successfully extracted 'C:\Program Files (x86)\Microsoft Visual Studio\Installer'.
+VisualStudio Bootstrapper:25/09/2019 22:09:34: Start named pipe: 3f47abc6-ade2-4944-a74e-2cd3576504ae
+VisualStudio Bootstrapper:25/09/2019 22:09:34: Starting VS setup process 'vs_installer.exe' with arguments '/finalizeInstall install --layoutPath "C:\vs2019layout\vsbuildtools2019" --in "C:\vs2019layout\vsbuildtools2019\Response.json" --noweb --locale en-GB --activityId "63e6fdee-5de3-4b94-9b25-e1d7c86b57a4" --pipe "3f47abc6-ade2-4944-a74e-2cd3576504ae"'.
+VisualStudio Bootstrapper:25/09/2019 22:09:34: VS setup process C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_installer.exe started. All done.
+VisualStudio Bootstrapper:25/09/2019 22:09:34: VS setup process starting. Exiting with code 0
+VisualStudio Bootstrapper:25/09/2019 22:09:53: Pipe disconnected.
+VisualStudio Bootstrapper:25/09/2019 22:09:53: Bootstrapper Successfully completed.

@@ -1,0 +1,92 @@
+2019-09-25T22:09:36 : Verbose : Visual Studio Installer (2.3.2209.906 : release) ["C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\vs_installershell.exe","--","/finalizeInstall","install","--layoutPath","C:\\vs2019layout\\vsbuildtools2019","--in","C:\\vs2019layout\\vsbuildtools2019\\Response.json","--noweb","--locale","en-GB","--activityId","63e6fdee-5de3-4b94-9b25-e1d7c86b57a4","--pipe","3f47abc6-ade2-4944-a74e-2cd3576504ae"]
+2019-09-25T22:09:38 : Verbose : Received the application ready notification
+2019-09-25T22:09:38 : Verbose : ProgressBarService listening to ipc channel: progress-bar
+2019-09-25T22:09:38 : Verbose : LoggerIpcRpcService listening to ipc channel: LoggerService
+2019-09-25T22:09:38 : Verbose : LoggerIpcRpcService listening to ipc channel: LoggerService
+2019-09-25T22:09:38 : Verbose : Telemetry Session ID: 232af046-2651-454d-872a-afc8e0befec5
+2019-09-25T22:09:38 : Verbose : Starting ServiceHub Remote Settings client.
+2019-09-25T22:09:38 : Verbose : Creating VS Telemetry Survey
+2019-09-25T22:09:38 : Verbose : Creating commonError Service
+2019-09-25T22:09:38 : Verbose : starting rpc process for common error
+2019-09-25T22:09:38 : Verbose : RPC Factory: Get common error config provider
+2019-09-25T22:09:38 : Verbose : Creating helpLink Service
+2019-09-25T22:09:38 : Verbose : starting rpc process for help link
+2019-09-25T22:09:38 : Verbose : FeaturesIpcRpcService listening to ipc channel: FeaturesProxy
+2019-09-25T22:09:38 : Verbose : FeaturesIpcRpcService listening to ipc channel: FeaturesProxy
+2019-09-25T22:09:38 : Verbose : Starting the installer service.
+2019-09-25T22:09:39 : Verbose : Installation finalized successfully.
+2019-09-25T22:09:46 : Verbose : Calling SetupEngine.Installer.Initialize. [locale: en-US]
+2019-09-25T22:09:46 : Verbose : Connected to Hub Controller's client watch 'net.pipe://F3907440FD7D74B665B4D189142E5C15'
+2019-09-25T22:09:46 : Verbose : Calling RemoteSettingsProviderService.Initialize(initializer) initializer: {"ClientName":"vs-xsetup","ClientVersion":"2.3.2209.906","RemoteSettingsFileName":"RemoteSettings_Installer.json","SerializedTelemetrySession":"{\"IsOptedIn\":true,\"Id\":\"232af046-2651-454d-872a-afc8e0befec5\",\"HostName\":\"Dev14\",\"AppInsightsInstrumentationKey\":\"f144292e-e3b2-4011-ac90-20e5c03fbce5\",\"AsimovInstrumentationKey\":\"aif-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\",\"ProcessStartTime\":637050425777830000}","ChannelOrProductId":"VS Installer","AppIdGuid":"42123B45-5471-4B16-81E7-5404CD93BCF1","ClientLocale":"en-US","Flights":[]}}
+2019-09-25T22:09:46 : Verbose : ServiceHub Remote Settings client started.
+2019-09-25T22:09:46 : Verbose : RPC Factory: Get help link provider
+2019-09-25T22:09:46 : Verbose : Getting the survey rules
+2019-09-25T22:09:46 : Verbose : Calling RemoteSettingsProviderService.GetActionsAsync(actionPath), actionPath: vs\installer\surveyactions
+2019-09-25T22:09:46 : Verbose : Calling RemoteSettingsProviderService.GetBooleanValue(collectionPath, key, defaultValue) collectionPath: Installer\Features\, key: ComponentSearch, defaultValue: true
+2019-09-25T22:09:46 : Verbose : Calling RemoteSettingsProviderService.GetBooleanValue(collectionPath, key, defaultValue) collectionPath: Installer\Features\, key: WelcomePane, defaultValue: false
+2019-09-25T22:09:46 : Verbose : Calling RemoteSettingsProviderService.GetBooleanValue(collectionPath, key, defaultValue) collectionPath: Installer\Features\, key: DownloadThenUpdate, defaultValue: false
+2019-09-25T22:09:46 : Verbose : Calling RemoteSettingsProviderService.GetBooleanValue(collectionPath, key, defaultValue) collectionPath: Installer\Features\, key: ProblemsDlgButtons, defaultValue: false
+2019-09-25T22:09:46 : Verbose : Calling RemoteSettingsProviderService.GetBooleanValue(collectionPath, key, defaultValue) collectionPath: Installer\Features\, key: CommonError, defaultValue: false
+2019-09-25T22:09:46 : Verbose : Calling RemoteSettingsProviderService.GetBooleanValue(collectionPath, key, defaultValue) collectionPath: Installer\Features\, key: ProblemsDlgRetry, defaultValue: false
+2019-09-25T22:09:46 : Verbose : Calling RemoteSettingsProviderService.GetBooleanValue(collectionPath, key, defaultValue) collectionPath: Installer\Features\, key: InstallationOptionsPageKS, defaultValue: false
+2019-09-25T22:09:46 : Verbose : Calling RemoteSettingsProviderService.GetBooleanValue(collectionPath, key, defaultValue) collectionPath: Installer\Features\, key: ShowBitrate, defaultValue: false
+2019-09-25T22:09:46 : Verbose : Calling RemoteSettingsProviderService.GetBooleanValue(collectionPath, key, defaultValue) collectionPath: Installer\Features\, key: RecommendSel, defaultValue: false
+2019-09-25T22:09:46 : Verbose : Calling RemoteSettingsProviderService.GetBooleanValue(collectionPath, key, defaultValue) collectionPath: Installer\Features\, key: Surveys, defaultValue: false
+2019-09-25T22:09:47 : Verbose : ServiceHubExperimentationClient.setSharedProperty(name, value) called,
+ [name: VS.ABExp.Flights] [value: ]
+2019-09-25T22:09:47 : Verbose : SetupEngine.Installer.Initialize succeeded. [locale: en-US]
+2019-09-25T22:09:47 : Verbose : Started the installer service.
+2019-09-25T22:09:47 : Verbose : Calling SetupEngine.Installer.GetSettings.
+2019-09-25T22:09:48 : Verbose : SetupEngine.Installer.GetSettings succeeded.
+2019-09-25T22:09:48 : Verbose : Calling SetupEngine.Installer.SetSettings.
+2019-09-25T22:09:48 : Verbose : SetupEngine.Installer.SetSettings succeeded.
+2019-09-25T22:09:48 : Verbose : Updated settings successfully.
+2019-09-25T22:09:48 : Verbose : Calling SetupEngine.Installer.IsElevated.
+2019-09-25T22:09:48 : Verbose : FeedbackIpcRpcService listening to ipc channel: FeedbackProxy
+2019-09-25T22:09:48 : Verbose : Resolved RemoteSettingsProviderService.GetBooleanValue(collectionPath, key, defaultValue) collectionPath: Installer\Features\, key: ComponentSearch, defaultValue: true, result: true
+2019-09-25T22:09:48 : Verbose : Resolved RemoteSettingsProviderService.GetBooleanValue(collectionPath, key, defaultValue) collectionPath: Installer\Features\, key: WelcomePane, defaultValue: false, result: false
+2019-09-25T22:09:48 : Verbose : SetupEngine.Installer.IsElevated succeeded.
+2019-09-25T22:09:48 : Verbose : Creating Start menu shortcut [shortcutName: Visual Studio Installer, targetPath: C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_installer.exe]
+2019-09-25T22:09:48 : Verbose : Starting the setup updater service.
+2019-09-25T22:09:48 : Verbose : Service creation finished
+2019-09-25T22:09:48 : Verbose : Resolved RemoteSettingsProviderService.GetBooleanValue(collectionPath, key, defaultValue) collectionPath: Installer\Features\, key: DownloadThenUpdate, defaultValue: false, result: false
+2019-09-25T22:09:48 : Verbose : Resolved RemoteSettingsProviderService.GetBooleanValue(collectionPath, key, defaultValue) collectionPath: Installer\Features\, key: ProblemsDlgButtons, defaultValue: false, result: false
+2019-09-25T22:09:48 : Verbose : Resolved RemoteSettingsProviderService.GetBooleanValue(collectionPath, key, defaultValue) collectionPath: Installer\Features\, key: CommonError, defaultValue: false, result: false
+2019-09-25T22:09:48 : Verbose : Resolved RemoteSettingsProviderService.GetBooleanValue(collectionPath, key, defaultValue) collectionPath: Installer\Features\, key: ProblemsDlgRetry, defaultValue: false, result: false
+2019-09-25T22:09:48 : Verbose : Resolved RemoteSettingsProviderService.GetBooleanValue(collectionPath, key, defaultValue) collectionPath: Installer\Features\, key: InstallationOptionsPageKS, defaultValue: false, result: false
+2019-09-25T22:09:48 : Verbose : Resolved RemoteSettingsProviderService.GetBooleanValue(collectionPath, key, defaultValue) collectionPath: Installer\Features\, key: ShowBitrate, defaultValue: false, result: false
+2019-09-25T22:09:48 : Verbose : Resolved RemoteSettingsProviderService.GetBooleanValue(collectionPath, key, defaultValue) collectionPath: Installer\Features\, key: RecommendSel, defaultValue: false, result: false
+2019-09-25T22:09:48 : Verbose : Started the setup updater service.
+2019-09-25T22:09:48 : Verbose : Resolved RemoteSettingsProviderService.GetBooleanValue(collectionPath, key, defaultValue) collectionPath: Installer\Features\, key: Surveys, defaultValue: false, result: false
+2019-09-25T22:09:49 : Verbose : Window ready
+2019-09-25T22:09:49 : Verbose : Calling RemoteSettingsProviderService.GetActionsAsync(actionPath), actionPath: vs\installer\commonerroractions
+2019-09-25T22:09:49 : Verbose : Getting installed product summaries. [installerId: SetupEngine]
+2019-09-25T22:09:49 : Verbose : Starting the installed products provider service.
+2019-09-25T22:09:49 : Verbose : Starting the products provider service.
+2019-09-25T22:09:49 : Verbose : Getting product summaries. [installerId: SetupEngine]
+2019-09-25T22:09:49 : Verbose : Calling SetupEngine.Installer.GetDriveInfo.
+2019-09-25T22:09:49 : Verbose : Calling SetupEngine.Installer.IsElevated.
+2019-09-25T22:09:49 : Verbose : Calling RemoteSettingsProviderService.GetActionsAsync(actionPath), actionPath: vs\installer\helplink
+2019-09-25T22:09:49 : Verbose : SetupEngine.Installer.IsElevated succeeded.
+2019-09-25T22:09:49 : Verbose : SetupEngine.Installer.GetDriveInfo succeeded.
+2019-09-25T22:09:49 : Verbose : Started the products provider service.
+2019-09-25T22:09:49 : Verbose : Started the installed products provider service.
+2019-09-25T22:09:50 : Verbose : Channel: VisualStudio.16.Release, status: Online
+2019-09-25T22:09:50 : Verbose : Getting product. [installerId: SetupEngine, productId: Microsoft.VisualStudio.Product.BuildTools].
+2019-09-25T22:09:50 : Verbose : Resolved RemoteSettingsProviderService.GetActionsAsync(actionPath) actionPath: vs\installer\surveyactions, result: []
+2019-09-25T22:09:50 : Verbose : Resolved RemoteSettingsProviderService.GetActionsAsync(actionPath) actionPath: vs\installer\helplink, result: []
+2019-09-25T22:09:50 : Verbose : Resolved RemoteSettingsProviderService.GetActionsAsync(actionPath) actionPath: vs\installer\commonerroractions, result: []
+2019-09-25T22:09:53 : Verbose : Window showing
+2019-09-25T22:09:53 : Verbose : Pipe: \\.\pipe\3f47abc6-ade2-4944-a74e-2cd3576504ae connection is established
+2019-09-25T22:09:53 : Verbose : Pipe is closed
+2019-09-25T22:09:53 : Verbose : Calling SetupEngine.Installer.EvaluateInstallParameters. [channelId: VisualStudio.16.Release, productId: Microsoft.VisualStudio.Product.BuildTools, installationPath: 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools', languages: 'en-US' selectedPackageReferences.length: 36]
+2019-09-25T22:09:54 : Verbose : SetupEngine.Installer.EvaluateInstallParameters succeeded. [channelId: VisualStudio.16.Release, productId: Microsoft.VisualStudio.Product.BuildTools, installationPath: 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools', languages: 'en-US' selectedPackageReferences.length: 36]
+2019-09-25T22:09:54 : Verbose : Calling SetupEngine.Installer.EvaluateInstallParameters. [channelId: VisualStudio.16.Release, productId: Microsoft.VisualStudio.Product.BuildTools, installationPath: 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools', languages: 'en-US' selectedPackageReferences.length: 36]
+2019-09-25T22:09:54 : Verbose : SetupEngine.Installer.EvaluateInstallParameters succeeded. [channelId: VisualStudio.16.Release, productId: Microsoft.VisualStudio.Product.BuildTools, installationPath: 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools', languages: 'en-US' selectedPackageReferences.length: 36]
+2019-09-25T22:10:13 : Verbose : Calling SetupEngine.Installer.InstallProduct. [channelId: VisualStudio.16.Release, productId: Microsoft.VisualStudio.Product.BuildTools, installationPath: 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools']
+2019-09-25T22:14:49 : Verbose : SetupEngine.Installer.InstallProduct succeeded. [channelId: VisualStudio.16.Release, productId: Microsoft.VisualStudio.Product.BuildTools, installationPath: 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools']
+2019-09-25T22:14:49 : Verbose : Getting installed product summaries. [installerId: SetupEngine]
+2019-09-25T22:14:49 : Verbose : Getting product summaries. [installerId: SetupEngine]
+2019-09-25T22:14:49 : Verbose : Channel: VisualStudio.16.Release, status: Online
+2019-09-25T22:14:59 : Verbose : Calling SetupEngine.Installer.LaunchProduct. [installPath: 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools']
+2019-09-25T22:14:59 : Verbose : SetupEngine.Installer.LaunchProduct succeeded. [installPath: 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools']

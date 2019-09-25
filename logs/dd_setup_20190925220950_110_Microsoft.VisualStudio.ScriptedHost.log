@@ -1,0 +1,26 @@
+[1a64:0017][2019-09-25T22:13:18] Opening the package for processing
+[1a64:0017][2019-09-25T22:13:18] Using package payload to get the embedded manifest
+[1a64:0017][2019-09-25T22:13:18] Getting list of files within the package
+[1a64:0017][2019-09-25T22:13:18] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ScriptedHost.dll
+[1a64:0017][2019-09-25T22:13:18] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ScriptedHost.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ScriptedHost.dll
+[1a64:0017][2019-09-25T22:13:18] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ScriptedHost.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ScriptedHost.dll
+[1a64:0017][2019-09-25T22:13:18] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ScriptedHost.dll'.
+[1a64:0017][2019-09-25T22:13:18] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ScriptedHost.dll for X86 ngen
+[1a64:0017][2019-09-25T22:13:18] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ScriptedHost.dll' for ngen
+[1a64:0017][2019-09-25T22:13:18] Processing file /Contents/Common7/IDE/PrivateAssemblies/plugin.vs.js
+[1a64:0017][2019-09-25T22:13:18] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/plugin.vs.js to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\plugin.vs.js
+[1a64:0017][2019-09-25T22:13:18] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/plugin.vs.js to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\plugin.vs.js
+[1a64:0017][2019-09-25T22:13:18] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\plugin.vs.js'.
+[1a64:0017][2019-09-25T22:13:18] Processing file /Contents/Common7/IDE/PrivateAssemblies/ScriptedHost.Blank.html
+[1a64:0017][2019-09-25T22:13:18] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/ScriptedHost.Blank.html to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\ScriptedHost.Blank.html
+[1a64:0017][2019-09-25T22:13:18] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/ScriptedHost.Blank.html to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\ScriptedHost.Blank.html
+[1a64:0017][2019-09-25T22:13:18] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\ScriptedHost.Blank.html'.
+[1a64:0017][2019-09-25T22:13:18] Processing file /Contents/Common7/IDE/PrivateAssemblies/ScriptedSandbox.t.html
+[1a64:0017][2019-09-25T22:13:18] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/ScriptedSandbox.t.html to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\ScriptedSandbox.t.html
+[1a64:0017][2019-09-25T22:13:18] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/ScriptedSandbox.t.html to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\ScriptedSandbox.t.html
+[1a64:0017][2019-09-25T22:13:18] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\ScriptedSandbox.t.html'.
+[1a64:0017][2019-09-25T22:13:18] Processing file /Contents/Common7/IDE/PrivateAssemblies/ScriptedSandbox32.exe
+[1a64:0017][2019-09-25T22:13:18] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/ScriptedSandbox32.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\ScriptedSandbox32.exe
+[1a64:0017][2019-09-25T22:13:18] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/ScriptedSandbox32.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\ScriptedSandbox32.exe
+[1a64:0017][2019-09-25T22:13:18] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\ScriptedSandbox32.exe'.
+[1a64:0017][2019-09-25T22:13:18] Package executed successfully. Return code: 0

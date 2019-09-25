@@ -1,0 +1,52 @@
+[1a64:0017][2019-09-25T22:14:31] Opening the package for processing
+[1a64:0017][2019-09-25T22:14:31] Using package payload to get the embedded manifest
+[1a64:0017][2019-09-25T22:14:31] Getting list of files within the package
+[1a64:0017][2019-09-25T22:14:31] Processing file /Contents/VSSDK/VisualStudioIntegration/Common/Assemblies/v4.0/Microsoft.VisualStudio.Debugger.Engine.dll
+[1a64:0017][2019-09-25T22:14:31] Started: Copying file /Contents/VSSDK/VisualStudioIntegration/Common/Assemblies/v4.0/Microsoft.VisualStudio.Debugger.Engine.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Debugger.Engine.dll
+[1a64:0017][2019-09-25T22:14:31] Completed: Copying file /Contents/VSSDK/VisualStudioIntegration/Common/Assemblies/v4.0/Microsoft.VisualStudio.Debugger.Engine.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Debugger.Engine.dll
+[1a64:0017][2019-09-25T22:14:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Debugger.Engine.dll'.
+[1a64:0017][2019-09-25T22:14:31] Processing file /Contents/VSSDK/VisualStudioIntegration/Common/Assemblies/v4.0/Microsoft.VisualStudio.Debugger.Engine.xml
+[1a64:0017][2019-09-25T22:14:31] Started: Copying file /Contents/VSSDK/VisualStudioIntegration/Common/Assemblies/v4.0/Microsoft.VisualStudio.Debugger.Engine.xml to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Debugger.Engine.xml
+[1a64:0017][2019-09-25T22:14:31] Completed: Copying file /Contents/VSSDK/VisualStudioIntegration/Common/Assemblies/v4.0/Microsoft.VisualStudio.Debugger.Engine.xml to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Debugger.Engine.xml
+[1a64:0017][2019-09-25T22:14:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Assemblies\v4.0\Microsoft.VisualStudio.Debugger.Engine.xml'.
+[1a64:0017][2019-09-25T22:14:31] Processing file /Contents/VSSDK/VisualStudioIntegration/Common/Inc/vsdebugeng.ad7interop.h
+[1a64:0017][2019-09-25T22:14:31] Started: Copying file /Contents/VSSDK/VisualStudioIntegration/Common/Inc/vsdebugeng.ad7interop.h to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Inc\vsdebugeng.ad7interop.h
+[1a64:0017][2019-09-25T22:14:31] Completed: Copying file /Contents/VSSDK/VisualStudioIntegration/Common/Inc/vsdebugeng.ad7interop.h to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Inc\vsdebugeng.ad7interop.h
+[1a64:0017][2019-09-25T22:14:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Inc\vsdebugeng.ad7interop.h'.
+[1a64:0017][2019-09-25T22:14:31] Processing file /Contents/VSSDK/VisualStudioIntegration/Common/Inc/vsdebugeng.h
+[1a64:0017][2019-09-25T22:14:31] Started: Copying file /Contents/VSSDK/VisualStudioIntegration/Common/Inc/vsdebugeng.h to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Inc\vsdebugeng.h
+[1a64:0017][2019-09-25T22:14:31] Completed: Copying file /Contents/VSSDK/VisualStudioIntegration/Common/Inc/vsdebugeng.h to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Inc\vsdebugeng.h
+[1a64:0017][2019-09-25T22:14:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Inc\vsdebugeng.h'.
+[1a64:0017][2019-09-25T22:14:31] Processing file /Contents/VSSDK/VisualStudioIntegration/Common/Inc/vsdebugeng.templates.h
+[1a64:0017][2019-09-25T22:14:31] Started: Copying file /Contents/VSSDK/VisualStudioIntegration/Common/Inc/vsdebugeng.templates.h to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Inc\vsdebugeng.templates.h
+[1a64:0017][2019-09-25T22:14:31] Completed: Copying file /Contents/VSSDK/VisualStudioIntegration/Common/Inc/vsdebugeng.templates.h to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Inc\vsdebugeng.templates.h
+[1a64:0017][2019-09-25T22:14:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Inc\vsdebugeng.templates.h'.
+[1a64:0017][2019-09-25T22:14:31] Processing file /Contents/VSSDK/VisualStudioIntegration/Common/Lib/Arm/VSDebugEng.lib
+[1a64:0017][2019-09-25T22:14:31] Started: Copying file /Contents/VSSDK/VisualStudioIntegration/Common/Lib/Arm/VSDebugEng.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Lib\Arm\VSDebugEng.lib
+[1a64:0017][2019-09-25T22:14:31] Completed: Copying file /Contents/VSSDK/VisualStudioIntegration/Common/Lib/Arm/VSDebugEng.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Lib\Arm\VSDebugEng.lib
+[1a64:0017][2019-09-25T22:14:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Lib\Arm\VSDebugEng.lib'.
+[1a64:0017][2019-09-25T22:14:31] Processing file /Contents/VSSDK/VisualStudioIntegration/Common/Lib/x64/VSDebugEng.lib
+[1a64:0017][2019-09-25T22:14:31] Started: Copying file /Contents/VSSDK/VisualStudioIntegration/Common/Lib/x64/VSDebugEng.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Lib\x64\VSDebugEng.lib
+[1a64:0017][2019-09-25T22:14:31] Completed: Copying file /Contents/VSSDK/VisualStudioIntegration/Common/Lib/x64/VSDebugEng.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Lib\x64\VSDebugEng.lib
+[1a64:0017][2019-09-25T22:14:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Lib\x64\VSDebugEng.lib'.
+[1a64:0017][2019-09-25T22:14:31] Processing file /Contents/VSSDK/VisualStudioIntegration/Common/Lib/x86/VSDebugEng.lib
+[1a64:0017][2019-09-25T22:14:31] Started: Copying file /Contents/VSSDK/VisualStudioIntegration/Common/Lib/x86/VSDebugEng.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Lib\x86\VSDebugEng.lib
+[1a64:0017][2019-09-25T22:14:31] Completed: Copying file /Contents/VSSDK/VisualStudioIntegration/Common/Lib/x86/VSDebugEng.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Lib\x86\VSDebugEng.lib
+[1a64:0017][2019-09-25T22:14:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Common\Lib\x86\VSDebugEng.lib'.
+[1a64:0017][2019-09-25T22:14:31] Processing file /Contents/VSSDK/VisualStudioIntegration/Tools/Bin/Microsoft.VSSDK.Debugger.VSDConfigTool.targets
+[1a64:0017][2019-09-25T22:14:31] Started: Copying file /Contents/VSSDK/VisualStudioIntegration/Tools/Bin/Microsoft.VSSDK.Debugger.VSDConfigTool.targets to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Tools\Bin\Microsoft.VSSDK.Debugger.VSDConfigTool.targets
+[1a64:0017][2019-09-25T22:14:31] Completed: Copying file /Contents/VSSDK/VisualStudioIntegration/Tools/Bin/Microsoft.VSSDK.Debugger.VSDConfigTool.targets to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Tools\Bin\Microsoft.VSSDK.Debugger.VSDConfigTool.targets
+[1a64:0017][2019-09-25T22:14:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Tools\Bin\Microsoft.VSSDK.Debugger.VSDConfigTool.targets'.
+[1a64:0017][2019-09-25T22:14:31] Processing file /Contents/VSSDK/VisualStudioIntegration/Tools/Bin/SetEngineLogMode.cmd
+[1a64:0017][2019-09-25T22:14:31] Started: Copying file /Contents/VSSDK/VisualStudioIntegration/Tools/Bin/SetEngineLogMode.cmd to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Tools\Bin\SetEngineLogMode.cmd
+[1a64:0017][2019-09-25T22:14:31] Completed: Copying file /Contents/VSSDK/VisualStudioIntegration/Tools/Bin/SetEngineLogMode.cmd to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Tools\Bin\SetEngineLogMode.cmd
+[1a64:0017][2019-09-25T22:14:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Tools\Bin\SetEngineLogMode.cmd'.
+[1a64:0017][2019-09-25T22:14:31] Processing file /Contents/VSSDK/VisualStudioIntegration/Tools/Bin/vsdconfigtool.exe
+[1a64:0017][2019-09-25T22:14:31] Started: Copying file /Contents/VSSDK/VisualStudioIntegration/Tools/Bin/vsdconfigtool.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Tools\Bin\vsdconfigtool.exe
+[1a64:0017][2019-09-25T22:14:31] Completed: Copying file /Contents/VSSDK/VisualStudioIntegration/Tools/Bin/vsdconfigtool.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Tools\Bin\vsdconfigtool.exe
+[1a64:0017][2019-09-25T22:14:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VSSDK\VisualStudioIntegration\Tools\Bin\vsdconfigtool.exe'.
+[1a64:0017][2019-09-25T22:14:31] Processing file /Contents/Xml/Schemas/vsdconfig.xsd
+[1a64:0017][2019-09-25T22:14:31] Started: Copying file /Contents/Xml/Schemas/vsdconfig.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Xml\Schemas\vsdconfig.xsd
+[1a64:0017][2019-09-25T22:14:31] Completed: Copying file /Contents/Xml/Schemas/vsdconfig.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Xml\Schemas\vsdconfig.xsd
+[1a64:0017][2019-09-25T22:14:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Xml\Schemas\vsdconfig.xsd'.
+[1a64:0017][2019-09-25T22:14:31] Package executed successfully. Return code: 0

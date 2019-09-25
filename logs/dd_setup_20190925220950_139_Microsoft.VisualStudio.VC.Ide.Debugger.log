@@ -1,0 +1,120 @@
+[1a64:0017][2019-09-25T22:13:22] Opening the package for processing
+[1a64:0017][2019-09-25T22:13:22] Using package payload to get the embedded manifest
+[1a64:0017][2019-09-25T22:13:22] Getting list of files within the package
+[1a64:0017][2019-09-25T22:13:22] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/cppdebug.remote.vsdconfig
+[1a64:0017][2019-09-25T22:13:22] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/cppdebug.remote.vsdconfig to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\cppdebug.remote.vsdconfig
+[1a64:0017][2019-09-25T22:13:22] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/cppdebug.remote.vsdconfig to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\cppdebug.remote.vsdconfig
+[1a64:0017][2019-09-25T22:13:22] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\cppdebug.remote.vsdconfig'.
+[1a64:0017][2019-09-25T22:13:22] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/cppdebug.vsdconfig
+[1a64:0017][2019-09-25T22:13:22] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/cppdebug.vsdconfig to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\cppdebug.vsdconfig
+[1a64:0017][2019-09-25T22:13:22] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/cppdebug.vsdconfig to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\cppdebug.vsdconfig
+[1a64:0017][2019-09-25T22:13:22] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\cppdebug.vsdconfig'.
+[1a64:0017][2019-09-25T22:13:22] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/VCDebugger.pkgdef
+[1a64:0017][2019-09-25T22:13:22] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/VCDebugger.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\VCDebugger.pkgdef
+[1a64:0017][2019-09-25T22:13:22] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/VCDebugger.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\VCDebugger.pkgdef
+[1a64:0017][2019-09-25T22:13:22] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\VCDebugger.pkgdef'.
+[1a64:0017][2019-09-25T22:13:22] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x64/CppDebug.dll
+[1a64:0017][2019-09-25T22:13:22] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x64/CppDebug.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x64\CppDebug.dll
+[1a64:0017][2019-09-25T22:13:22] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x64/CppDebug.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x64\CppDebug.dll
+[1a64:0017][2019-09-25T22:13:22] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x64\CppDebug.dll'.
+[1a64:0017][2019-09-25T22:13:22] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x64/cppdebug.remote.dll
+[1a64:0017][2019-09-25T22:13:22] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x64/cppdebug.remote.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x64\cppdebug.remote.dll
+[1a64:0017][2019-09-25T22:13:22] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x64/cppdebug.remote.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x64\cppdebug.remote.dll
+[1a64:0017][2019-09-25T22:13:22] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x64\cppdebug.remote.dll'.
+[1a64:0017][2019-09-25T22:13:22] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x86/CppDebug.dll
+[1a64:0017][2019-09-25T22:13:22] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x86/CppDebug.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x86\CppDebug.dll
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x86/CppDebug.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x86\CppDebug.dll
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x86\CppDebug.dll'.
+[1a64:0017][2019-09-25T22:13:23] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x86/cppdebug.remote.dll
+[1a64:0017][2019-09-25T22:13:23] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x86/cppdebug.remote.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x86\cppdebug.remote.dll
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x86/cppdebug.remote.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x86\cppdebug.remote.dll
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x86\cppdebug.remote.dll'.
+[1a64:0017][2019-09-25T22:13:23] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/MCppEE.pkgdef
+[1a64:0017][2019-09-25T22:13:23] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/MCppEE.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\MCppEE.pkgdef
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/MCppEE.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\MCppEE.pkgdef
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\MCppEE.pkgdef'.
+[1a64:0017][2019-09-25T22:13:23] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/ObjC.pkgdef
+[1a64:0017][2019-09-25T22:13:23] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/ObjC.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\ObjC.pkgdef
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/ObjC.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\ObjC.pkgdef
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\ObjC.pkgdef'.
+[1a64:0017][2019-09-25T22:13:23] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/ECBuild.pkgdef
+[1a64:0017][2019-09-25T22:13:23] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/ECBuild.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\ECBuild.pkgdef
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/ECBuild.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\ECBuild.pkgdef
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\ECBuild.pkgdef'.
+[1a64:0017][2019-09-25T22:13:23] Processing file /Contents/Common7/Packages/Debugger/ecbuild.dll
+[1a64:0017][2019-09-25T22:13:23] Started: Copying file /Contents/Common7/Packages/Debugger/ecbuild.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\ecbuild.dll
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Common7/Packages/Debugger/ecbuild.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\ecbuild.dll
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\ecbuild.dll'.
+[1a64:0017][2019-09-25T22:13:23] Processing file /Contents/Common7/Packages/Debugger/natstepfilter.xsd
+[1a64:0017][2019-09-25T22:13:23] Started: Copying file /Contents/Common7/Packages/Debugger/natstepfilter.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\natstepfilter.xsd
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Common7/Packages/Debugger/natstepfilter.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\natstepfilter.xsd
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\natstepfilter.xsd'.
+[1a64:0017][2019-09-25T22:13:23] Processing file /Contents/Common7/Packages/Debugger/natvis.xsd
+[1a64:0017][2019-09-25T22:13:23] Started: Copying file /Contents/Common7/Packages/Debugger/natvis.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\natvis.xsd
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Common7/Packages/Debugger/natvis.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\natvis.xsd
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\natvis.xsd'.
+[1a64:0017][2019-09-25T22:13:23] Processing file /Contents/Common7/Packages/Debugger/vcencbld.dll
+[1a64:0017][2019-09-25T22:13:23] Started: Copying file /Contents/Common7/Packages/Debugger/vcencbld.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\vcencbld.dll
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Common7/Packages/Debugger/vcencbld.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\vcencbld.dll
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\vcencbld.dll'.
+[1a64:0017][2019-09-25T22:13:23] Processing file /Contents/Common7/Packages/Debugger/Visualizers/atlmfc.natvis
+[1a64:0017][2019-09-25T22:13:23] Started: Copying file /Contents/Common7/Packages/Debugger/Visualizers/atlmfc.natvis to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\atlmfc.natvis
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Common7/Packages/Debugger/Visualizers/atlmfc.natvis to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\atlmfc.natvis
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\atlmfc.natvis'.
+[1a64:0017][2019-09-25T22:13:23] Processing file /Contents/Common7/Packages/Debugger/Visualizers/concurrency.natvis
+[1a64:0017][2019-09-25T22:13:23] Started: Copying file /Contents/Common7/Packages/Debugger/Visualizers/concurrency.natvis to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\concurrency.natvis
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Common7/Packages/Debugger/Visualizers/concurrency.natvis to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\concurrency.natvis
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\concurrency.natvis'.
+[1a64:0017][2019-09-25T22:13:23] Processing file /Contents/Common7/Packages/Debugger/Visualizers/CppAMP.natstepfilter
+[1a64:0017][2019-09-25T22:13:23] Started: Copying file /Contents/Common7/Packages/Debugger/Visualizers/CppAMP.natstepfilter to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\CppAMP.natstepfilter
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Common7/Packages/Debugger/Visualizers/CppAMP.natstepfilter to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\CppAMP.natstepfilter
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\CppAMP.natstepfilter'.
+[1a64:0017][2019-09-25T22:13:23] Processing file /Contents/Common7/Packages/Debugger/Visualizers/cpp_rest.natvis
+[1a64:0017][2019-09-25T22:13:23] Started: Copying file /Contents/Common7/Packages/Debugger/Visualizers/cpp_rest.natvis to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\cpp_rest.natvis
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Common7/Packages/Debugger/Visualizers/cpp_rest.natvis to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\cpp_rest.natvis
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\cpp_rest.natvis'.
+[1a64:0017][2019-09-25T22:13:23] Processing file /Contents/Common7/Packages/Debugger/Visualizers/default.natstepfilter
+[1a64:0017][2019-09-25T22:13:23] Started: Copying file /Contents/Common7/Packages/Debugger/Visualizers/default.natstepfilter to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\default.natstepfilter
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Common7/Packages/Debugger/Visualizers/default.natstepfilter to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\default.natstepfilter
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\default.natstepfilter'.
+[1a64:0017][2019-09-25T22:13:23] Processing file /Contents/Common7/Packages/Debugger/Visualizers/ObjectiveC.natvis
+[1a64:0017][2019-09-25T22:13:23] Started: Copying file /Contents/Common7/Packages/Debugger/Visualizers/ObjectiveC.natvis to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\ObjectiveC.natvis
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Common7/Packages/Debugger/Visualizers/ObjectiveC.natvis to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\ObjectiveC.natvis
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\ObjectiveC.natvis'.
+[1a64:0017][2019-09-25T22:13:23] Processing file /Contents/Common7/Packages/Debugger/Visualizers/stl.natvis
+[1a64:0017][2019-09-25T22:13:23] Started: Copying file /Contents/Common7/Packages/Debugger/Visualizers/stl.natvis to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\stl.natvis
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Common7/Packages/Debugger/Visualizers/stl.natvis to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\stl.natvis
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\stl.natvis'.
+[1a64:0017][2019-09-25T22:13:23] Processing file /Contents/Common7/Packages/Debugger/Visualizers/Windows.Data.Json.natvis
+[1a64:0017][2019-09-25T22:13:23] Started: Copying file /Contents/Common7/Packages/Debugger/Visualizers/Windows.Data.Json.natvis to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\Windows.Data.Json.natvis
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Common7/Packages/Debugger/Visualizers/Windows.Data.Json.natvis to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\Windows.Data.Json.natvis
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\Windows.Data.Json.natvis'.
+[1a64:0017][2019-09-25T22:13:23] Processing file /Contents/Common7/Packages/Debugger/Visualizers/windows.devices.geolocation.natvis
+[1a64:0017][2019-09-25T22:13:23] Started: Copying file /Contents/Common7/Packages/Debugger/Visualizers/windows.devices.geolocation.natvis to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\windows.devices.geolocation.natvis
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Common7/Packages/Debugger/Visualizers/windows.devices.geolocation.natvis to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\windows.devices.geolocation.natvis
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\windows.devices.geolocation.natvis'.
+[1a64:0017][2019-09-25T22:13:23] Processing file /Contents/Common7/Packages/Debugger/Visualizers/windows.devices.sensors.natvis
+[1a64:0017][2019-09-25T22:13:23] Started: Copying file /Contents/Common7/Packages/Debugger/Visualizers/windows.devices.sensors.natvis to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\windows.devices.sensors.natvis
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Common7/Packages/Debugger/Visualizers/windows.devices.sensors.natvis to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\windows.devices.sensors.natvis
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\windows.devices.sensors.natvis'.
+[1a64:0017][2019-09-25T22:13:23] Processing file /Contents/Common7/Packages/Debugger/Visualizers/windows.media.natvis
+[1a64:0017][2019-09-25T22:13:23] Started: Copying file /Contents/Common7/Packages/Debugger/Visualizers/windows.media.natvis to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\windows.media.natvis
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Common7/Packages/Debugger/Visualizers/windows.media.natvis to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\windows.media.natvis
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\windows.media.natvis'.
+[1a64:0017][2019-09-25T22:13:23] Processing file /Contents/Common7/Packages/Debugger/Visualizers/windows.natvis
+[1a64:0017][2019-09-25T22:13:23] Started: Copying file /Contents/Common7/Packages/Debugger/Visualizers/windows.natvis to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\windows.natvis
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Common7/Packages/Debugger/Visualizers/windows.natvis to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\windows.natvis
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\windows.natvis'.
+[1a64:0017][2019-09-25T22:13:23] Processing file /Contents/Common7/Packages/Debugger/Visualizers/winrt.natvis
+[1a64:0017][2019-09-25T22:13:23] Started: Copying file /Contents/Common7/Packages/Debugger/Visualizers/winrt.natvis to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\winrt.natvis
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Common7/Packages/Debugger/Visualizers/winrt.natvis to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\winrt.natvis
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\Visualizers\winrt.natvis'.
+[1a64:0017][2019-09-25T22:13:23] Processing file /Contents/Xml/Schemas/natstepfilter.xsd
+[1a64:0017][2019-09-25T22:13:23] Started: Copying file /Contents/Xml/Schemas/natstepfilter.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Xml\Schemas\natstepfilter.xsd
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Xml/Schemas/natstepfilter.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Xml\Schemas\natstepfilter.xsd
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Xml\Schemas\natstepfilter.xsd'.
+[1a64:0017][2019-09-25T22:13:23] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/extension.vsixmanifest
+[1a64:0017][2019-09-25T22:13:23] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\extension.vsixmanifest
+[1a64:0017][2019-09-25T22:13:23] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\extension.vsixmanifest
+[1a64:0017][2019-09-25T22:13:23] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\extension.vsixmanifest'.
+[1a64:0017][2019-09-25T22:13:23] Package executed successfully. Return code: 0

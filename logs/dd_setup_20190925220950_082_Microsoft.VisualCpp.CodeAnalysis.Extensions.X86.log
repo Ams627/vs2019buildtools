@@ -1,0 +1,20 @@
+[1a64:0017][2019-09-25T22:11:45] Opening the package for processing
+[1a64:0017][2019-09-25T22:11:45] Using package payload to get the embedded manifest
+[1a64:0017][2019-09-25T22:11:45] Getting list of files within the package
+[1a64:0017][2019-09-25T22:11:45] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/HostX86/x86/ConcurrencyCheck.dll
+[1a64:0017][2019-09-25T22:11:45] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/HostX86/x86/ConcurrencyCheck.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\ConcurrencyCheck.dll
+[1a64:0017][2019-09-25T22:11:45] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/HostX86/x86/ConcurrencyCheck.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\ConcurrencyCheck.dll
+[1a64:0017][2019-09-25T22:11:45] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\ConcurrencyCheck.dll'.
+[1a64:0017][2019-09-25T22:11:45] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/HostX86/x86/CppCoreCheck.dll
+[1a64:0017][2019-09-25T22:11:45] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/HostX86/x86/CppCoreCheck.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\CppCoreCheck.dll
+[1a64:0017][2019-09-25T22:11:45] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/HostX86/x86/CppCoreCheck.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\CppCoreCheck.dll
+[1a64:0017][2019-09-25T22:11:45] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\CppCoreCheck.dll'.
+[1a64:0017][2019-09-25T22:11:45] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/HostX86/x86/EspXEngine.dll
+[1a64:0017][2019-09-25T22:11:45] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/HostX86/x86/EspXEngine.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\EspXEngine.dll
+[1a64:0017][2019-09-25T22:11:45] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/HostX86/x86/EspXEngine.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\EspXEngine.dll
+[1a64:0017][2019-09-25T22:11:45] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\EspXEngine.dll'.
+[1a64:0017][2019-09-25T22:11:45] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/HostX86/x86/intellicode.dll
+[1a64:0017][2019-09-25T22:11:45] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/HostX86/x86/intellicode.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\intellicode.dll
+[1a64:0017][2019-09-25T22:11:45] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/HostX86/x86/intellicode.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\intellicode.dll
+[1a64:0017][2019-09-25T22:11:45] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\intellicode.dll'.
+[1a64:0017][2019-09-25T22:11:45] Package executed successfully. Return code: 0

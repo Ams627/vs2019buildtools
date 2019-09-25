@@ -1,0 +1,400 @@
+[1a64:0017][2019-09-25T22:11:39] Opening the package for processing
+[1a64:0017][2019-09-25T22:11:39] Using package payload to get the embedded manifest
+[1a64:0017][2019-09-25T22:11:39] Getting list of files within the package
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/alloca16.asm
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/alloca16.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\alloca16.asm
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/alloca16.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\alloca16.asm
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\alloca16.asm'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/chandler4.c
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/chandler4.c to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\chandler4.c
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/chandler4.c to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\chandler4.c
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\chandler4.c'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/chkstk.asm
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/chkstk.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\chkstk.asm
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/chkstk.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\chkstk.asm
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\chkstk.asm'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/dllsupp.asm
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/dllsupp.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\dllsupp.asm
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/dllsupp.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\dllsupp.asm
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\dllsupp.asm'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ehprolg2.c
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ehprolg2.c to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ehprolg2.c
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ehprolg2.c to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ehprolg2.c
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ehprolg2.c'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ehprolg3.c
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ehprolg3.c to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ehprolg3.c
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ehprolg3.c to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ehprolg3.c
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ehprolg3.c'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ehprolg3a.c
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ehprolg3a.c to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ehprolg3a.c
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ehprolg3a.c to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ehprolg3a.c
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ehprolg3a.c'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ehprolog.asm
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ehprolog.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ehprolog.asm
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ehprolog.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ehprolog.asm
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ehprolog.asm'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/except.inc
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/except.inc to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\except.inc
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/except.inc to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\except.inc
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\except.inc'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/exsup.inc
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/exsup.inc to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\exsup.inc
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/exsup.inc to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\exsup.inc
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\exsup.inc'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/lldiv.asm
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/lldiv.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\lldiv.asm
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/lldiv.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\lldiv.asm
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\lldiv.asm'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/lldvrm.asm
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/lldvrm.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\lldvrm.asm
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/lldvrm.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\lldvrm.asm
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\lldvrm.asm'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/llmul.asm
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/llmul.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\llmul.asm
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/llmul.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\llmul.asm
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\llmul.asm'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/llrem.asm
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/llrem.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\llrem.asm
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/llrem.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\llrem.asm
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\llrem.asm'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/llshl.asm
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/llshl.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\llshl.asm
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/llshl.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\llshl.asm
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\llshl.asm'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/llshr.asm
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/llshr.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\llshr.asm
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/llshr.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\llshr.asm
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\llshr.asm'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/lowhelpr.asm
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/lowhelpr.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\lowhelpr.asm
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/lowhelpr.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\lowhelpr.asm
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\lowhelpr.asm'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/memchr.asm
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/memchr.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\memchr.asm
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/memchr.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\memchr.asm
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\memchr.asm'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/memcpy.asm
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/memcpy.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\memcpy.asm
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/memcpy.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\memcpy.asm
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\memcpy.asm'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/memmove.asm
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/memmove.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\memmove.asm
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/memmove.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\memmove.asm
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\memmove.asm'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/memset.asm
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/memset.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\memset.asm
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/memset.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\memset.asm
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\memset.asm'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/mm.inc
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/mm.inc to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\mm.inc
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/mm.inc to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\mm.inc
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\mm.inc'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/strchr.asm
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/strchr.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\strchr.asm
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/strchr.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\strchr.asm
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\strchr.asm'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/strrchr.asm
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/strrchr.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\strrchr.asm
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/strrchr.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\strrchr.asm
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\strrchr.asm'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/strstr.asm
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/strstr.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\strstr.asm
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/strstr.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\strstr.asm
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\strstr.asm'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/trnsctrl.cpp
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/trnsctrl.cpp to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\trnsctrl.cpp
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/trnsctrl.cpp to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\trnsctrl.cpp
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\trnsctrl.cpp'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ulldiv.asm
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ulldiv.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ulldiv.asm
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ulldiv.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ulldiv.asm
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ulldiv.asm'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ulldvrm.asm
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ulldvrm.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ulldvrm.asm
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ulldvrm.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ulldvrm.asm
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ulldvrm.asm'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ullrem.asm
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ullrem.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ullrem.asm
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ullrem.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ullrem.asm
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ullrem.asm'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ullshr.asm
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ullshr.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ullshr.asm
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/ullshr.asm to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ullshr.asm
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\ullshr.asm'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/vcruntime.inc
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/vcruntime.inc to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\vcruntime.inc
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/vcruntime.inc to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\vcruntime.inc
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\vcruntime.inc'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/wcschr.c
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/wcschr.c to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\wcschr.c
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/wcschr.c to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\wcschr.c
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\wcschr.c'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/wcsrchr.c
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/wcsrchr.c to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\wcsrchr.c
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/wcsrchr.c to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\wcsrchr.c
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\wcsrchr.c'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/wcsstr.c
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/wcsstr.c to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\wcsstr.c
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/crt/src/i386/wcsstr.c to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\wcsstr.c
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\crt\src\i386\wcsstr.c'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/aligned_new.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/aligned_new.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\aligned_new.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/aligned_new.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\aligned_new.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\aligned_new.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/binmode.obj
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/binmode.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\binmode.obj
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/binmode.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\binmode.obj
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\binmode.obj'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/chkstk.obj
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/chkstk.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\chkstk.obj
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/chkstk.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\chkstk.obj
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\chkstk.obj'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/commode.obj
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/commode.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\commode.obj
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/commode.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\commode.obj
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\commode.obj'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/comsupp.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/comsupp.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\comsupp.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/comsupp.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\comsupp.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\comsupp.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/comsuppd.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/comsuppd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\comsuppd.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/comsuppd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\comsuppd.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\comsuppd.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/comsuppw.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/comsuppw.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\comsuppw.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/comsuppw.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\comsuppw.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\comsuppw.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/comsuppwd.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/comsuppwd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\comsuppwd.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/comsuppwd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\comsuppwd.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\comsuppwd.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/concrt.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/concrt.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\concrt.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/concrt.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\concrt.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\concrt.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/concrtd.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/concrtd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\concrtd.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/concrtd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\concrtd.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\concrtd.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/delayimp.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/delayimp.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\delayimp.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/delayimp.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\delayimp.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\delayimp.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/exe_initialize_mta.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/exe_initialize_mta.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\exe_initialize_mta.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/exe_initialize_mta.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\exe_initialize_mta.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\exe_initialize_mta.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/fp10.obj
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/fp10.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\fp10.obj
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/fp10.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\fp10.obj
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\fp10.obj'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/invalidcontinue.obj
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/invalidcontinue.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\invalidcontinue.obj
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/invalidcontinue.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\invalidcontinue.obj
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\invalidcontinue.obj'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/iso_stdio_wide_specifiers.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/iso_stdio_wide_specifiers.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\iso_stdio_wide_specifiers.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/iso_stdio_wide_specifiers.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\iso_stdio_wide_specifiers.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\iso_stdio_wide_specifiers.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/legacy_stdio_definitions.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/legacy_stdio_definitions.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\legacy_stdio_definitions.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/legacy_stdio_definitions.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\legacy_stdio_definitions.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\legacy_stdio_definitions.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/legacy_stdio_float_rounding.obj
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/legacy_stdio_float_rounding.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\legacy_stdio_float_rounding.obj
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/legacy_stdio_float_rounding.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\legacy_stdio_float_rounding.obj
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\legacy_stdio_float_rounding.obj'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/legacy_stdio_wide_specifiers.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/legacy_stdio_wide_specifiers.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\legacy_stdio_wide_specifiers.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/legacy_stdio_wide_specifiers.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\legacy_stdio_wide_specifiers.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\legacy_stdio_wide_specifiers.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/legacy_x86_flt_exceptions.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/legacy_x86_flt_exceptions.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\legacy_x86_flt_exceptions.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/legacy_x86_flt_exceptions.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\legacy_x86_flt_exceptions.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\legacy_x86_flt_exceptions.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/loosefpmath.obj
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/loosefpmath.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\loosefpmath.obj
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/loosefpmath.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\loosefpmath.obj
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\loosefpmath.obj'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/Microsoft.VisualC.STLCLR.dll
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/Microsoft.VisualC.STLCLR.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\Microsoft.VisualC.STLCLR.dll
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/Microsoft.VisualC.STLCLR.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\Microsoft.VisualC.STLCLR.dll
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\Microsoft.VisualC.STLCLR.dll'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/msvcprt.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/msvcprt.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\msvcprt.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/msvcprt.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\msvcprt.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\msvcprt.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/msvcprtd.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/msvcprtd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\msvcprtd.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/msvcprtd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\msvcprtd.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\msvcprtd.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/msvcrt.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/msvcrt.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\msvcrt.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/msvcrt.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\msvcrt.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\msvcrt.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/msvcrtd.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/msvcrtd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\msvcrtd.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/msvcrtd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\msvcrtd.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\msvcrtd.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/newmode.obj
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/newmode.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\newmode.obj
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/newmode.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\newmode.obj
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\newmode.obj'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/noarg.obj
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/noarg.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\noarg.obj
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/noarg.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\noarg.obj
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\noarg.obj'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/noenv.obj
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/noenv.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\noenv.obj
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/noenv.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\noenv.obj
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\noenv.obj'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/notelemetry.obj
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/notelemetry.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\notelemetry.obj
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/notelemetry.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\notelemetry.obj
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\notelemetry.obj'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/nothrownew.obj
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/nothrownew.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\nothrownew.obj
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/nothrownew.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\nothrownew.obj
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\nothrownew.obj'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/oldnames.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/oldnames.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\oldnames.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/oldnames.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\oldnames.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\oldnames.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/ptrustm.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/ptrustm.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\ptrustm.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/ptrustm.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\ptrustm.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\ptrustm.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/ptrustmd.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/ptrustmd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\ptrustmd.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/ptrustmd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\ptrustmd.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\ptrustmd.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/setargv.obj
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/setargv.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\setargv.obj
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/setargv.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\setargv.obj
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\setargv.obj'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/concrt.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/concrt.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\concrt.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/concrt.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\concrt.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\concrt.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/concrtd.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/concrtd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\concrtd.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/concrtd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\concrtd.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\concrtd.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/exe_initialize_mta.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/exe_initialize_mta.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\exe_initialize_mta.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/exe_initialize_mta.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\exe_initialize_mta.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\exe_initialize_mta.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/iso_stdio_wide_specifiers.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/iso_stdio_wide_specifiers.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\iso_stdio_wide_specifiers.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/iso_stdio_wide_specifiers.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\iso_stdio_wide_specifiers.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\iso_stdio_wide_specifiers.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/legacy_stdio_definitions.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/legacy_stdio_definitions.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\legacy_stdio_definitions.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/legacy_stdio_definitions.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\legacy_stdio_definitions.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\legacy_stdio_definitions.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/legacy_stdio_wide_specifiers.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/legacy_stdio_wide_specifiers.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\legacy_stdio_wide_specifiers.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/legacy_stdio_wide_specifiers.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\legacy_stdio_wide_specifiers.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\legacy_stdio_wide_specifiers.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/legacy_x86_flt_exceptions.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/legacy_x86_flt_exceptions.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\legacy_x86_flt_exceptions.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/legacy_x86_flt_exceptions.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\legacy_x86_flt_exceptions.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\legacy_x86_flt_exceptions.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/msvcprt.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/msvcprt.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\msvcprt.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/msvcprt.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\msvcprt.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\msvcprt.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/msvcprtd.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/msvcprtd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\msvcprtd.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/msvcprtd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\msvcprtd.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\msvcprtd.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/msvcrt.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/msvcrt.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\msvcrt.lib
+[1a64:0017][2019-09-25T22:11:39] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/msvcrt.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\msvcrt.lib
+[1a64:0017][2019-09-25T22:11:39] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\msvcrt.lib'.
+[1a64:0017][2019-09-25T22:11:39] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/msvcrtd.lib
+[1a64:0017][2019-09-25T22:11:39] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/msvcrtd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\msvcrtd.lib
+[1a64:0017][2019-09-25T22:11:40] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/msvcrtd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\msvcrtd.lib
+[1a64:0017][2019-09-25T22:11:40] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\msvcrtd.lib'.
+[1a64:0017][2019-09-25T22:11:40] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/oldnames.lib
+[1a64:0017][2019-09-25T22:11:40] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/oldnames.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\oldnames.lib
+[1a64:0017][2019-09-25T22:11:40] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/oldnames.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\oldnames.lib
+[1a64:0017][2019-09-25T22:11:40] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\oldnames.lib'.
+[1a64:0017][2019-09-25T22:11:40] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/references/platform.winmd
+[1a64:0017][2019-09-25T22:11:40] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/references/platform.winmd to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\references\platform.winmd
+[1a64:0017][2019-09-25T22:11:40] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/references/platform.winmd to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\references\platform.winmd
+[1a64:0017][2019-09-25T22:11:40] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\references\platform.winmd'.
+[1a64:0017][2019-09-25T22:11:40] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vcamp.lib
+[1a64:0017][2019-09-25T22:11:40] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vcamp.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vcamp.lib
+[1a64:0017][2019-09-25T22:11:40] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vcamp.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vcamp.lib
+[1a64:0017][2019-09-25T22:11:40] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vcamp.lib'.
+[1a64:0017][2019-09-25T22:11:40] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vcampd.lib
+[1a64:0017][2019-09-25T22:11:40] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vcampd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vcampd.lib
+[1a64:0017][2019-09-25T22:11:40] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vcampd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vcampd.lib
+[1a64:0017][2019-09-25T22:11:40] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vcampd.lib'.
+[1a64:0017][2019-09-25T22:11:40] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vccorlib.lib
+[1a64:0017][2019-09-25T22:11:40] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vccorlib.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vccorlib.lib
+[1a64:0017][2019-09-25T22:11:40] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vccorlib.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vccorlib.lib
+[1a64:0017][2019-09-25T22:11:40] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vccorlib.lib'.
+[1a64:0017][2019-09-25T22:11:40] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vccorlibd.lib
+[1a64:0017][2019-09-25T22:11:40] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vccorlibd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vccorlibd.lib
+[1a64:0017][2019-09-25T22:11:40] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vccorlibd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vccorlibd.lib
+[1a64:0017][2019-09-25T22:11:40] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vccorlibd.lib'.
+[1a64:0017][2019-09-25T22:11:40] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vcomp.lib
+[1a64:0017][2019-09-25T22:11:40] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vcomp.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vcomp.lib
+[1a64:0017][2019-09-25T22:11:40] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vcomp.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vcomp.lib
+[1a64:0017][2019-09-25T22:11:40] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vcomp.lib'.
+[1a64:0017][2019-09-25T22:11:40] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vcompd.lib
+[1a64:0017][2019-09-25T22:11:40] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vcompd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vcompd.lib
+[1a64:0017][2019-09-25T22:11:40] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vcompd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vcompd.lib
+[1a64:0017][2019-09-25T22:11:40] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vcompd.lib'.
+[1a64:0017][2019-09-25T22:11:40] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vcruntime.lib
+[1a64:0017][2019-09-25T22:11:40] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vcruntime.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vcruntime.lib
+[1a64:0017][2019-09-25T22:11:40] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vcruntime.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vcruntime.lib
+[1a64:0017][2019-09-25T22:11:40] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vcruntime.lib'.
+[1a64:0017][2019-09-25T22:11:40] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vcruntimed.lib
+[1a64:0017][2019-09-25T22:11:40] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vcruntimed.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vcruntimed.lib
+[1a64:0017][2019-09-25T22:11:40] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/store/vcruntimed.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vcruntimed.lib
+[1a64:0017][2019-09-25T22:11:40] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\store\vcruntimed.lib'.
+[1a64:0017][2019-09-25T22:11:40] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/threadlocale.obj
+[1a64:0017][2019-09-25T22:11:40] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/threadlocale.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\threadlocale.obj
+[1a64:0017][2019-09-25T22:11:40] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/threadlocale.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\threadlocale.obj
+[1a64:0017][2019-09-25T22:11:40] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\threadlocale.obj'.
+[1a64:0017][2019-09-25T22:11:40] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vcamp.lib
+[1a64:0017][2019-09-25T22:11:40] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vcamp.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vcamp.lib
+[1a64:0017][2019-09-25T22:11:40] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vcamp.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vcamp.lib
+[1a64:0017][2019-09-25T22:11:40] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vcamp.lib'.
+[1a64:0017][2019-09-25T22:11:40] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vcampd.lib
+[1a64:0017][2019-09-25T22:11:40] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vcampd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vcampd.lib
+[1a64:0017][2019-09-25T22:11:40] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vcampd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vcampd.lib
+[1a64:0017][2019-09-25T22:11:40] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vcampd.lib'.
+[1a64:0017][2019-09-25T22:11:40] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vccorlib.lib
+[1a64:0017][2019-09-25T22:11:40] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vccorlib.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vccorlib.lib
+[1a64:0017][2019-09-25T22:11:40] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vccorlib.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vccorlib.lib
+[1a64:0017][2019-09-25T22:11:40] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vccorlib.lib'.
+[1a64:0017][2019-09-25T22:11:40] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vccorlibd.lib
+[1a64:0017][2019-09-25T22:11:40] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vccorlibd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vccorlibd.lib
+[1a64:0017][2019-09-25T22:11:40] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vccorlibd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vccorlibd.lib
+[1a64:0017][2019-09-25T22:11:40] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vccorlibd.lib'.
+[1a64:0017][2019-09-25T22:11:40] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vcomp.lib
+[1a64:0017][2019-09-25T22:11:40] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vcomp.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vcomp.lib
+[1a64:0017][2019-09-25T22:11:40] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vcomp.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vcomp.lib
+[1a64:0017][2019-09-25T22:11:40] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vcomp.lib'.
+[1a64:0017][2019-09-25T22:11:40] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vcompd.lib
+[1a64:0017][2019-09-25T22:11:40] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vcompd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vcompd.lib
+[1a64:0017][2019-09-25T22:11:40] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vcompd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vcompd.lib
+[1a64:0017][2019-09-25T22:11:40] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vcompd.lib'.
+[1a64:0017][2019-09-25T22:11:40] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vcruntime.lib
+[1a64:0017][2019-09-25T22:11:40] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vcruntime.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vcruntime.lib
+[1a64:0017][2019-09-25T22:11:40] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vcruntime.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vcruntime.lib
+[1a64:0017][2019-09-25T22:11:40] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vcruntime.lib'.
+[1a64:0017][2019-09-25T22:11:40] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vcruntimed.lib
+[1a64:0017][2019-09-25T22:11:40] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vcruntimed.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vcruntimed.lib
+[1a64:0017][2019-09-25T22:11:40] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/vcruntimed.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vcruntimed.lib
+[1a64:0017][2019-09-25T22:11:40] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\vcruntimed.lib'.
+[1a64:0017][2019-09-25T22:11:40] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/wsetargv.obj
+[1a64:0017][2019-09-25T22:11:40] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/wsetargv.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\wsetargv.obj
+[1a64:0017][2019-09-25T22:11:40] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x86/wsetargv.obj to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\wsetargv.obj
+[1a64:0017][2019-09-25T22:11:40] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x86\wsetargv.obj'.
+[1a64:0017][2019-09-25T22:11:40] Package executed successfully. Return code: 0

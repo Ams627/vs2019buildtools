@@ -1,0 +1,36 @@
+[1a64:0017][2019-09-25T22:13:22] Opening the package for processing
+[1a64:0017][2019-09-25T22:13:22] Using package payload to get the embedded manifest
+[1a64:0017][2019-09-25T22:13:22] Getting list of files within the package
+[1a64:0017][2019-09-25T22:13:22] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/Microsoft.VisualStudio.Debugger.Parallel.pkgdef
+[1a64:0017][2019-09-25T22:13:22] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/Microsoft.VisualStudio.Debugger.Parallel.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\Microsoft.VisualStudio.Debugger.Parallel.pkgdef
+[1a64:0017][2019-09-25T22:13:22] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/Microsoft.VisualStudio.Debugger.Parallel.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\Microsoft.VisualStudio.Debugger.Parallel.pkgdef
+[1a64:0017][2019-09-25T22:13:22] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\Microsoft.VisualStudio.Debugger.Parallel.pkgdef'.
+[1a64:0017][2019-09-25T22:13:22] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/PfxTaskProvider.pkgdef
+[1a64:0017][2019-09-25T22:13:22] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/PfxTaskProvider.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\PfxTaskProvider.pkgdef
+[1a64:0017][2019-09-25T22:13:22] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/PfxTaskProvider.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\PfxTaskProvider.pkgdef
+[1a64:0017][2019-09-25T22:13:22] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\PfxTaskProvider.pkgdef'.
+[1a64:0017][2019-09-25T22:13:22] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/PplTaskProvider.pkgdef
+[1a64:0017][2019-09-25T22:13:22] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/PplTaskProvider.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\PplTaskProvider.pkgdef
+[1a64:0017][2019-09-25T22:13:22] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/PplTaskProvider.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\PplTaskProvider.pkgdef
+[1a64:0017][2019-09-25T22:13:22] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\PplTaskProvider.pkgdef'.
+[1a64:0017][2019-09-25T22:13:22] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Debugger.Parallel.dll
+[1a64:0017][2019-09-25T22:13:22] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Debugger.Parallel.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Microsoft.VisualStudio.Debugger.Parallel.dll
+[1a64:0017][2019-09-25T22:13:22] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Debugger.Parallel.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Microsoft.VisualStudio.Debugger.Parallel.dll
+[1a64:0017][2019-09-25T22:13:22] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Microsoft.VisualStudio.Debugger.Parallel.dll'.
+[1a64:0017][2019-09-25T22:13:22] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Microsoft.VisualStudio.Debugger.Parallel.dll for X86 ngen
+[1a64:0017][2019-09-25T22:13:22] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.Debugger.Parallel.dll' for ngen
+[1a64:0017][2019-09-25T22:13:22] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Parallel.MultiValueVisualizers.dll
+[1a64:0017][2019-09-25T22:13:22] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Parallel.MultiValueVisualizers.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Parallel.MultiValueVisualizers.dll
+[1a64:0017][2019-09-25T22:13:22] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Parallel.MultiValueVisualizers.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Parallel.MultiValueVisualizers.dll
+[1a64:0017][2019-09-25T22:13:22] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Parallel.MultiValueVisualizers.dll'.
+[1a64:0017][2019-09-25T22:13:22] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Parallel.MultiValueVisualizers.dll for X86 ngen
+[1a64:0017][2019-09-25T22:13:22] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Parallel.MultiValueVisualizers.dll' for ngen
+[1a64:0017][2019-09-25T22:13:22] Processing file /Contents/Common7/Packages/Debugger/PfxTaskProvider.dll
+[1a64:0017][2019-09-25T22:13:22] Started: Copying file /Contents/Common7/Packages/Debugger/PfxTaskProvider.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\PfxTaskProvider.dll
+[1a64:0017][2019-09-25T22:13:22] Completed: Copying file /Contents/Common7/Packages/Debugger/PfxTaskProvider.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\PfxTaskProvider.dll
+[1a64:0017][2019-09-25T22:13:22] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\PfxTaskProvider.dll'.
+[1a64:0017][2019-09-25T22:13:22] Processing file /Contents/Common7/Packages/Debugger/PplTaskProvider.dll
+[1a64:0017][2019-09-25T22:13:22] Started: Copying file /Contents/Common7/Packages/Debugger/PplTaskProvider.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\PplTaskProvider.dll
+[1a64:0017][2019-09-25T22:13:22] Completed: Copying file /Contents/Common7/Packages/Debugger/PplTaskProvider.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\PplTaskProvider.dll
+[1a64:0017][2019-09-25T22:13:22] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Packages\Debugger\PplTaskProvider.dll'.
+[1a64:0017][2019-09-25T22:13:22] Package executed successfully. Return code: 0

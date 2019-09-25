@@ -1,0 +1,12 @@
+[1a64:0017][2019-09-25T22:11:07] Opening the package for processing
+[1a64:0017][2019-09-25T22:11:07] Using package payload to get the embedded manifest
+[1a64:0017][2019-09-25T22:11:07] Getting list of files within the package
+[1a64:0017][2019-09-25T22:11:07] Processing file /Contents/Msbuild/Microsoft/VC/v160/Platforms/x64/PlatformToolsets/v142/Toolset.props
+[1a64:0017][2019-09-25T22:11:07] Started: Copying file /Contents/Msbuild/Microsoft/VC/v160/Platforms/x64/PlatformToolsets/v142/Toolset.props to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Msbuild\Microsoft\VC\v160\Platforms\x64\PlatformToolsets\v142\Toolset.props
+[1a64:0017][2019-09-25T22:11:07] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v160/Platforms/x64/PlatformToolsets/v142/Toolset.props to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Msbuild\Microsoft\VC\v160\Platforms\x64\PlatformToolsets\v142\Toolset.props
+[1a64:0017][2019-09-25T22:11:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Msbuild\Microsoft\VC\v160\Platforms\x64\PlatformToolsets\v142\Toolset.props'.
+[1a64:0017][2019-09-25T22:11:07] Processing file /Contents/Msbuild/Microsoft/VC/v160/Platforms/x64/PlatformToolsets/v142/Toolset.targets
+[1a64:0017][2019-09-25T22:11:07] Started: Copying file /Contents/Msbuild/Microsoft/VC/v160/Platforms/x64/PlatformToolsets/v142/Toolset.targets to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Msbuild\Microsoft\VC\v160\Platforms\x64\PlatformToolsets\v142\Toolset.targets
+[1a64:0017][2019-09-25T22:11:07] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v160/Platforms/x64/PlatformToolsets/v142/Toolset.targets to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Msbuild\Microsoft\VC\v160\Platforms\x64\PlatformToolsets\v142\Toolset.targets
+[1a64:0017][2019-09-25T22:11:07] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Msbuild\Microsoft\VC\v160\Platforms\x64\PlatformToolsets\v142\Toolset.targets'.
+[1a64:0017][2019-09-25T22:11:07] Package executed successfully. Return code: 0

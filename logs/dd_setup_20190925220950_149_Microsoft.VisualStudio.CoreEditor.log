@@ -1,0 +1,228 @@
+[1a64:0017][2019-09-25T22:13:27] Opening the package for processing
+[1a64:0017][2019-09-25T22:13:27] Using package payload to get the embedded manifest
+[1a64:0017][2019-09-25T22:13:27] Getting list of files within the package
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/api-ms-win-core-file-l1-2-0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/api-ms-win-core-file-l1-2-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-core-file-l1-2-0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/api-ms-win-core-file-l1-2-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-core-file-l1-2-0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-core-file-l1-2-0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/api-ms-win-core-file-l2-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/api-ms-win-core-file-l2-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-core-file-l2-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/api-ms-win-core-file-l2-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-core-file-l2-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-core-file-l2-1-0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/api-ms-win-core-localization-l1-2-0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/api-ms-win-core-localization-l1-2-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-core-localization-l1-2-0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/api-ms-win-core-localization-l1-2-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-core-localization-l1-2-0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-core-localization-l1-2-0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/api-ms-win-core-processthreads-l1-1-1.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/api-ms-win-core-processthreads-l1-1-1.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-core-processthreads-l1-1-1.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/api-ms-win-core-processthreads-l1-1-1.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-core-processthreads-l1-1-1.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-core-processthreads-l1-1-1.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/api-ms-win-core-synch-l1-2-0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/api-ms-win-core-synch-l1-2-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-core-synch-l1-2-0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/api-ms-win-core-synch-l1-2-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-core-synch-l1-2-0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-core-synch-l1-2-0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/api-ms-win-core-timezone-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/api-ms-win-core-timezone-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-core-timezone-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/api-ms-win-core-timezone-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-core-timezone-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-core-timezone-l1-1-0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/api-ms-win-crt-convert-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-convert-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-convert-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-convert-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-convert-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-convert-l1-1-0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/api-ms-win-crt-environment-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-environment-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-environment-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-environment-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-environment-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-environment-l1-1-0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/api-ms-win-crt-filesystem-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-filesystem-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-filesystem-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-filesystem-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-filesystem-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-filesystem-l1-1-0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/api-ms-win-crt-heap-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-heap-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-heap-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-heap-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-heap-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-heap-l1-1-0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/api-ms-win-crt-locale-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-locale-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-locale-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-locale-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-locale-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-locale-l1-1-0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/api-ms-win-crt-math-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-math-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-math-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-math-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-math-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-math-l1-1-0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/api-ms-win-crt-multibyte-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-multibyte-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-multibyte-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-multibyte-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-multibyte-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-multibyte-l1-1-0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/api-ms-win-crt-runtime-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-runtime-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-runtime-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-runtime-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-runtime-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-runtime-l1-1-0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/api-ms-win-crt-stdio-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-stdio-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-stdio-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-stdio-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-stdio-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-stdio-l1-1-0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/api-ms-win-crt-string-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-string-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-string-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-string-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-string-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-string-l1-1-0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/api-ms-win-crt-time-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-time-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-time-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-time-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-time-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-time-l1-1-0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/api-ms-win-crt-utility-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-utility-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-utility-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-utility-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-utility-l1-1-0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\api-ms-win-crt-utility-l1-1-0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/CommonExtensions/LowImpactVsFeatureFlags.pkgdef
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/CommonExtensions/LowImpactVsFeatureFlags.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\LowImpactVsFeatureFlags.pkgdef
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/LowImpactVsFeatureFlags.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\LowImpactVsFeatureFlags.pkgdef
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\LowImpactVsFeatureFlags.pkgdef'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/NavigateTo/FileProvider/FileNameProvider.pkgdef
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/NavigateTo/FileProvider/FileNameProvider.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Platform\NavigateTo\FileProvider\FileNameProvider.pkgdef
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/NavigateTo/FileProvider/FileNameProvider.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Platform\NavigateTo\FileProvider\FileNameProvider.pkgdef
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Platform\NavigateTo\FileProvider\FileNameProvider.pkgdef'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/NavigateTo/FileProvider/Microsoft.VisualStudio.Language.QuickSearch.FileNameProvider.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/NavigateTo/FileProvider/Microsoft.VisualStudio.Language.QuickSearch.FileNameProvider.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Platform\NavigateTo\FileProvider\Microsoft.VisualStudio.Language.QuickSearch.FileNameProvider.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/NavigateTo/FileProvider/Microsoft.VisualStudio.Language.QuickSearch.FileNameProvider.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Platform\NavigateTo\FileProvider\Microsoft.VisualStudio.Language.QuickSearch.FileNameProvider.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Platform\NavigateTo\FileProvider\Microsoft.VisualStudio.Language.QuickSearch.FileNameProvider.dll'.
+[1a64:0017][2019-09-25T22:13:27] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Platform\NavigateTo\FileProvider\Microsoft.VisualStudio.Language.QuickSearch.FileNameProvider.dll for X86 ngen
+[1a64:0017][2019-09-25T22:13:27] Successfully queued file '/Contents/Common7/IDE/CommonExtensions/Platform/NavigateTo/FileProvider/Microsoft.VisualStudio.Language.QuickSearch.FileNameProvider.dll' for ngen
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/CommonExtensions/ProjectShellFileAssociations.pkgdef
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/CommonExtensions/ProjectShellFileAssociations.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\ProjectShellFileAssociations.pkgdef
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/ProjectShellFileAssociations.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\ProjectShellFileAssociations.pkgdef
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\ProjectShellFileAssociations.pkgdef'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/concrt140.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/concrt140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\concrt140.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/concrt140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\concrt140.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\concrt140.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Package.LanguageService.10.0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Package.LanguageService.10.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Microsoft.VisualStudio.Package.LanguageService.10.0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Package.LanguageService.10.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Microsoft.VisualStudio.Package.LanguageService.10.0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Microsoft.VisualStudio.Package.LanguageService.10.0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Package.LanguageService.11.0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Package.LanguageService.11.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Microsoft.VisualStudio.Package.LanguageService.11.0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Package.LanguageService.11.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Microsoft.VisualStudio.Package.LanguageService.11.0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Microsoft.VisualStudio.Package.LanguageService.11.0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Package.LanguageService.12.0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Package.LanguageService.12.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Microsoft.VisualStudio.Package.LanguageService.12.0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Package.LanguageService.12.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Microsoft.VisualStudio.Package.LanguageService.12.0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Microsoft.VisualStudio.Package.LanguageService.12.0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Package.LanguageService.14.0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Package.LanguageService.14.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Microsoft.VisualStudio.Package.LanguageService.14.0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Package.LanguageService.14.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Microsoft.VisualStudio.Package.LanguageService.14.0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Microsoft.VisualStudio.Package.LanguageService.14.0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/msvcp140.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/msvcp140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\msvcp140.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/msvcp140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\msvcp140.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\msvcp140.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/msvcr120_clr0400.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/msvcr120_clr0400.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\msvcr120_clr0400.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/msvcr120_clr0400.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\msvcr120_clr0400.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\msvcr120_clr0400.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Settings.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Settings.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Settings.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Settings.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Settings.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Settings.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.10.0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.10.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.10.0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.10.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.10.0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.10.0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.11.0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.11.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.11.0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.11.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.11.0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.11.0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.11.0.dll for X86 ngen
+[1a64:0017][2019-09-25T22:13:27] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.11.0.dll' for ngen
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.12.0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.12.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.12.0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.12.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.12.0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.12.0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.14.0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.14.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.14.0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.14.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.14.0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.14.0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.9.0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.9.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.9.0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.9.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.9.0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.9.0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/Profiles/CSharp.vssettings
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/Profiles/CSharp.vssettings to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Profiles\CSharp.vssettings
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/Profiles/CSharp.vssettings to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Profiles\CSharp.vssettings
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Profiles\CSharp.vssettings'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/Profiles/General.vssettings
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/Profiles/General.vssettings to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Profiles\General.vssettings
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/Profiles/General.vssettings to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Profiles\General.vssettings
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Profiles\General.vssettings'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/Profiles/VB.vssettings
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/Profiles/VB.vssettings to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Profiles\VB.vssettings
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/Profiles/VB.vssettings to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Profiles\VB.vssettings
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Profiles\VB.vssettings'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/Profiles/VC.vssettings
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/Profiles/VC.vssettings to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Profiles\VC.vssettings
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/Profiles/VC.vssettings to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Profiles\VC.vssettings
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Profiles\VC.vssettings'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/Profiles/Web.vssettings
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/Profiles/Web.vssettings to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Profiles\Web.vssettings
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/Profiles/Web.vssettings to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Profiles\Web.vssettings
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Profiles\Web.vssettings'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/Profiles/WebCode.vssettings
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/Profiles/WebCode.vssettings to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Profiles\WebCode.vssettings
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/Profiles/WebCode.vssettings to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Profiles\WebCode.vssettings
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Profiles\WebCode.vssettings'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/ReSharper%20(Visual%20Studio).vsk
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/ReSharper%20(Visual%20Studio).vsk to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\ReSharper (Visual Studio).vsk
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/ReSharper%20(Visual%20Studio).vsk to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\ReSharper (Visual Studio).vsk
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\ReSharper (Visual Studio).vsk'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/StorePID.exe
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/StorePID.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\StorePID.exe
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/StorePID.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\StorePID.exe
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\StorePID.exe'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/System.Windows.Forms.VisualStudio.15.0.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/System.Windows.Forms.VisualStudio.15.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\System.Windows.Forms.VisualStudio.15.0.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/System.Windows.Forms.VisualStudio.15.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\System.Windows.Forms.VisualStudio.15.0.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\System.Windows.Forms.VisualStudio.15.0.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/ucrtbase.dll
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/ucrtbase.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\ucrtbase.dll
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/ucrtbase.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\ucrtbase.dll
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\ucrtbase.dll'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/Visual%20Basic%206.vsk
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/Visual%20Basic%206.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Visual Basic 6.vsk
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/Visual%20Basic%206.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Visual Basic 6.vsk
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Visual Basic 6.vsk'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/Visual%20C%23%202005.vsk
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/Visual%20C%23%202005.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Visual C# 2005.vsk
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/Visual%20C%23%202005.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Visual C# 2005.vsk
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Visual C# 2005.vsk'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/Visual%20C++%202.vsk
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/Visual%20C++%202.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Visual C++ 2.vsk
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/Visual%20C++%202.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Visual C++ 2.vsk
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Visual C++ 2.vsk'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/Visual%20C++%206.vsk
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/Visual%20C++%206.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Visual C++ 6.vsk
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/Visual%20C++%206.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Visual C++ 6.vsk
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Visual C++ 6.vsk'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/Visual%20Studio%206.vsk
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/Visual%20Studio%206.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Visual Studio 6.vsk
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/Visual%20Studio%206.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Visual Studio 6.vsk
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Visual Studio 6.vsk'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/Visual%20Studio%20Code.vsk
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/Visual%20Studio%20Code.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Visual Studio Code.vsk
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/Visual%20Studio%20Code.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Visual Studio Code.vsk
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\Visual Studio Code.vsk'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/VsRegEdit.exe
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/VsRegEdit.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\VsRegEdit.exe
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/VsRegEdit.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\VsRegEdit.exe
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\VsRegEdit.exe'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/MSBuild/Current/Bin/AssemblyFolders.config
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/MSBuild/Current/Bin/AssemblyFolders.config to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\Bin\AssemblyFolders.config
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/MSBuild/Current/Bin/AssemblyFolders.config to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\Bin\AssemblyFolders.config
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\Bin\AssemblyFolders.config'.
+[1a64:0017][2019-09-25T22:13:27] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/NavigateTo/FileProvider/extension.vsixmanifest
+[1a64:0017][2019-09-25T22:13:27] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/NavigateTo/FileProvider/extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Platform\NavigateTo\FileProvider\extension.vsixmanifest
+[1a64:0017][2019-09-25T22:13:27] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/NavigateTo/FileProvider/extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Platform\NavigateTo\FileProvider\extension.vsixmanifest
+[1a64:0017][2019-09-25T22:13:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Platform\NavigateTo\FileProvider\extension.vsixmanifest'.
+[1a64:0017][2019-09-25T22:13:27] Package executed successfully. Return code: 0

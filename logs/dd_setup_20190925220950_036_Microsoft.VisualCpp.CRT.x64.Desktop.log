@@ -1,0 +1,132 @@
+[1a64:0017][2019-09-25T22:11:24] Opening the package for processing
+[1a64:0017][2019-09-25T22:11:24] Using package payload to get the embedded manifest
+[1a64:0017][2019-09-25T22:11:24] Getting list of files within the package
+[1a64:0017][2019-09-25T22:11:24] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcmt.amd64.pdb
+[1a64:0017][2019-09-25T22:11:24] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcmt.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcmt.amd64.pdb
+[1a64:0017][2019-09-25T22:11:24] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcmt.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcmt.amd64.pdb
+[1a64:0017][2019-09-25T22:11:24] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcmt.amd64.pdb'.
+[1a64:0017][2019-09-25T22:11:24] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcmt.lib
+[1a64:0017][2019-09-25T22:11:24] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcmt.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcmt.lib
+[1a64:0017][2019-09-25T22:11:25] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcmt.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcmt.lib
+[1a64:0017][2019-09-25T22:11:25] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcmt.lib'.
+[1a64:0017][2019-09-25T22:11:25] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcmtd.amd64.pdb
+[1a64:0017][2019-09-25T22:11:25] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcmtd.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcmtd.amd64.pdb
+[1a64:0017][2019-09-25T22:11:25] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcmtd.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcmtd.amd64.pdb
+[1a64:0017][2019-09-25T22:11:25] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcmtd.amd64.pdb'.
+[1a64:0017][2019-09-25T22:11:25] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcmtd.lib
+[1a64:0017][2019-09-25T22:11:25] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcmtd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcmtd.lib
+[1a64:0017][2019-09-25T22:11:25] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcmtd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcmtd.lib
+[1a64:0017][2019-09-25T22:11:25] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcmtd.lib'.
+[1a64:0017][2019-09-25T22:11:25] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrt.amd64.pdb
+[1a64:0017][2019-09-25T22:11:25] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrt.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrt.amd64.pdb
+[1a64:0017][2019-09-25T22:11:25] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrt.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrt.amd64.pdb
+[1a64:0017][2019-09-25T22:11:25] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrt.amd64.pdb'.
+[1a64:0017][2019-09-25T22:11:25] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrt.lib
+[1a64:0017][2019-09-25T22:11:25] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrt.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrt.lib
+[1a64:0017][2019-09-25T22:11:25] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrt.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrt.lib
+[1a64:0017][2019-09-25T22:11:25] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrt.lib'.
+[1a64:0017][2019-09-25T22:11:25] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrt1.amd64.pdb
+[1a64:0017][2019-09-25T22:11:25] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrt1.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrt1.amd64.pdb
+[1a64:0017][2019-09-25T22:11:25] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrt1.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrt1.amd64.pdb
+[1a64:0017][2019-09-25T22:11:25] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrt1.amd64.pdb'.
+[1a64:0017][2019-09-25T22:11:25] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrt1.lib
+[1a64:0017][2019-09-25T22:11:25] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrt1.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrt1.lib
+[1a64:0017][2019-09-25T22:11:25] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrt1.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrt1.lib
+[1a64:0017][2019-09-25T22:11:25] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrt1.lib'.
+[1a64:0017][2019-09-25T22:11:25] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrtd.amd64.pdb
+[1a64:0017][2019-09-25T22:11:25] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrtd.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrtd.amd64.pdb
+[1a64:0017][2019-09-25T22:11:25] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrtd.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrtd.amd64.pdb
+[1a64:0017][2019-09-25T22:11:25] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrtd.amd64.pdb'.
+[1a64:0017][2019-09-25T22:11:25] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrtd.lib
+[1a64:0017][2019-09-25T22:11:25] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrtd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrtd.lib
+[1a64:0017][2019-09-25T22:11:25] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrtd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrtd.lib
+[1a64:0017][2019-09-25T22:11:25] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrtd.lib'.
+[1a64:0017][2019-09-25T22:11:25] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrtd0.amd64.pdb
+[1a64:0017][2019-09-25T22:11:25] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrtd0.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrtd0.amd64.pdb
+[1a64:0017][2019-09-25T22:11:25] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrtd0.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrtd0.amd64.pdb
+[1a64:0017][2019-09-25T22:11:25] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrtd0.amd64.pdb'.
+[1a64:0017][2019-09-25T22:11:25] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrtd0.lib
+[1a64:0017][2019-09-25T22:11:25] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrtd0.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrtd0.lib
+[1a64:0017][2019-09-25T22:11:25] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrtd0.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrtd0.lib
+[1a64:0017][2019-09-25T22:11:25] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrtd0.lib'.
+[1a64:0017][2019-09-25T22:11:25] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrtd1.amd64.pdb
+[1a64:0017][2019-09-25T22:11:25] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrtd1.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrtd1.amd64.pdb
+[1a64:0017][2019-09-25T22:11:25] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrtd1.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrtd1.amd64.pdb
+[1a64:0017][2019-09-25T22:11:25] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrtd1.amd64.pdb'.
+[1a64:0017][2019-09-25T22:11:25] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrtd1.lib
+[1a64:0017][2019-09-25T22:11:25] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrtd1.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrtd1.lib
+[1a64:0017][2019-09-25T22:11:25] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libconcrtd1.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrtd1.lib
+[1a64:0017][2019-09-25T22:11:25] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libconcrtd1.lib'.
+[1a64:0017][2019-09-25T22:11:25] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmt.amd64.pdb
+[1a64:0017][2019-09-25T22:11:25] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmt.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmt.amd64.pdb
+[1a64:0017][2019-09-25T22:11:25] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmt.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmt.amd64.pdb
+[1a64:0017][2019-09-25T22:11:25] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmt.amd64.pdb'.
+[1a64:0017][2019-09-25T22:11:25] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmt.lib
+[1a64:0017][2019-09-25T22:11:25] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmt.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmt.lib
+[1a64:0017][2019-09-25T22:11:26] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmt.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmt.lib
+[1a64:0017][2019-09-25T22:11:26] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmt.lib'.
+[1a64:0017][2019-09-25T22:11:26] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmt1.amd64.pdb
+[1a64:0017][2019-09-25T22:11:26] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmt1.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmt1.amd64.pdb
+[1a64:0017][2019-09-25T22:11:26] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmt1.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmt1.amd64.pdb
+[1a64:0017][2019-09-25T22:11:26] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmt1.amd64.pdb'.
+[1a64:0017][2019-09-25T22:11:26] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmt1.lib
+[1a64:0017][2019-09-25T22:11:26] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmt1.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmt1.lib
+[1a64:0017][2019-09-25T22:11:26] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmt1.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmt1.lib
+[1a64:0017][2019-09-25T22:11:26] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmt1.lib'.
+[1a64:0017][2019-09-25T22:11:26] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmtd.amd64.pdb
+[1a64:0017][2019-09-25T22:11:26] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmtd.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmtd.amd64.pdb
+[1a64:0017][2019-09-25T22:11:26] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmtd.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmtd.amd64.pdb
+[1a64:0017][2019-09-25T22:11:26] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmtd.amd64.pdb'.
+[1a64:0017][2019-09-25T22:11:26] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmtd.lib
+[1a64:0017][2019-09-25T22:11:26] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmtd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmtd.lib
+[1a64:0017][2019-09-25T22:11:26] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmtd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmtd.lib
+[1a64:0017][2019-09-25T22:11:26] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmtd.lib'.
+[1a64:0017][2019-09-25T22:11:26] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmtd0.amd64.pdb
+[1a64:0017][2019-09-25T22:11:26] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmtd0.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmtd0.amd64.pdb
+[1a64:0017][2019-09-25T22:11:26] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmtd0.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmtd0.amd64.pdb
+[1a64:0017][2019-09-25T22:11:26] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmtd0.amd64.pdb'.
+[1a64:0017][2019-09-25T22:11:26] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmtd0.lib
+[1a64:0017][2019-09-25T22:11:26] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmtd0.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmtd0.lib
+[1a64:0017][2019-09-25T22:11:26] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmtd0.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmtd0.lib
+[1a64:0017][2019-09-25T22:11:26] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmtd0.lib'.
+[1a64:0017][2019-09-25T22:11:26] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmtd1.amd64.pdb
+[1a64:0017][2019-09-25T22:11:26] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmtd1.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmtd1.amd64.pdb
+[1a64:0017][2019-09-25T22:11:26] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmtd1.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmtd1.amd64.pdb
+[1a64:0017][2019-09-25T22:11:26] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmtd1.amd64.pdb'.
+[1a64:0017][2019-09-25T22:11:26] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmtd1.lib
+[1a64:0017][2019-09-25T22:11:26] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmtd1.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmtd1.lib
+[1a64:0017][2019-09-25T22:11:27] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libcpmtd1.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmtd1.lib
+[1a64:0017][2019-09-25T22:11:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libcpmtd1.lib'.
+[1a64:0017][2019-09-25T22:11:27] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libvcruntime.amd64.pdb
+[1a64:0017][2019-09-25T22:11:27] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libvcruntime.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libvcruntime.amd64.pdb
+[1a64:0017][2019-09-25T22:11:27] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libvcruntime.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libvcruntime.amd64.pdb
+[1a64:0017][2019-09-25T22:11:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libvcruntime.amd64.pdb'.
+[1a64:0017][2019-09-25T22:11:27] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libvcruntime.lib
+[1a64:0017][2019-09-25T22:11:27] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libvcruntime.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libvcruntime.lib
+[1a64:0017][2019-09-25T22:11:27] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libvcruntime.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libvcruntime.lib
+[1a64:0017][2019-09-25T22:11:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libvcruntime.lib'.
+[1a64:0017][2019-09-25T22:11:27] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libvcruntimed.amd64.pdb
+[1a64:0017][2019-09-25T22:11:27] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libvcruntimed.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libvcruntimed.amd64.pdb
+[1a64:0017][2019-09-25T22:11:27] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libvcruntimed.amd64.pdb to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libvcruntimed.amd64.pdb
+[1a64:0017][2019-09-25T22:11:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libvcruntimed.amd64.pdb'.
+[1a64:0017][2019-09-25T22:11:27] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libvcruntimed.lib
+[1a64:0017][2019-09-25T22:11:27] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libvcruntimed.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libvcruntimed.lib
+[1a64:0017][2019-09-25T22:11:27] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/libvcruntimed.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libvcruntimed.lib
+[1a64:0017][2019-09-25T22:11:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\libvcruntimed.lib'.
+[1a64:0017][2019-09-25T22:11:27] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/msvcmrt.lib
+[1a64:0017][2019-09-25T22:11:27] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/msvcmrt.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\msvcmrt.lib
+[1a64:0017][2019-09-25T22:11:27] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/msvcmrt.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\msvcmrt.lib
+[1a64:0017][2019-09-25T22:11:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\msvcmrt.lib'.
+[1a64:0017][2019-09-25T22:11:27] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/msvcmrtd.lib
+[1a64:0017][2019-09-25T22:11:27] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/msvcmrtd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\msvcmrtd.lib
+[1a64:0017][2019-09-25T22:11:27] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/msvcmrtd.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\msvcmrtd.lib
+[1a64:0017][2019-09-25T22:11:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\msvcmrtd.lib'.
+[1a64:0017][2019-09-25T22:11:27] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/msvcmrtd_netcore.lib
+[1a64:0017][2019-09-25T22:11:27] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/msvcmrtd_netcore.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\msvcmrtd_netcore.lib
+[1a64:0017][2019-09-25T22:11:27] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/msvcmrtd_netcore.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\msvcmrtd_netcore.lib
+[1a64:0017][2019-09-25T22:11:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\msvcmrtd_netcore.lib'.
+[1a64:0017][2019-09-25T22:11:27] Processing file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/msvcmrt_netcore.lib
+[1a64:0017][2019-09-25T22:11:27] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/msvcmrt_netcore.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\msvcmrt_netcore.lib
+[1a64:0017][2019-09-25T22:11:27] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/lib/x64/msvcmrt_netcore.lib to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\msvcmrt_netcore.lib
+[1a64:0017][2019-09-25T22:11:27] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\lib\x64\msvcmrt_netcore.lib'.
+[1a64:0017][2019-09-25T22:11:27] Package executed successfully. Return code: 0

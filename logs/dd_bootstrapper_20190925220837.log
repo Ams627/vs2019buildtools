@@ -1,0 +1,15 @@
+Beginning of the log. Start Time: 25/09/2019 22:08:37
+VisualStudio Bootstrapper:25/09/2019 22:08:38: Commandline arguments = --noweb,--env,_SFX_CAB_EXE_PACKAGE:C:\vs2019layout\vsbuildtools2019\vs_buildtools.exe _SFX_CAB_EXE_ORIGINALWORKINGDIR:C:\vs2019layout\vsbuildtools2019
+VisualStudio Bootstrapper:25/09/2019 22:08:38: Parent process name = vs_buildtools
+VisualStudio Bootstrapper:25/09/2019 22:08:38: Parent process product version = 16.3.29318.209
+VisualStudio Bootstrapper:25/09/2019 22:08:38: CampaignId = 
+VisualStudio Bootstrapper:25/09/2019 22:08:38: ResponseId not available in 'vs_setup_bootstrapper.config'. Trying to parse filename.
+VisualStudio Bootstrapper:25/09/2019 22:08:38: loading config settings: -update --update --layout -offline --offline --locale --layout --originalworkingdir --installLayoutPath --env
+VisualStudio Bootstrapper:25/09/2019 22:08:41: DownloadURL = https://aka.ms/vs/16/release/installer
+VisualStudio Bootstrapper:25/09/2019 22:08:41: InstallLocation = C:\Program Files (x86)\Microsoft Visual Studio\Installer
+VisualStudio Bootstrapper:25/09/2019 22:08:41: OfflineFilePath = C:\vs2019layout\vsbuildtools2019\vs_installer.opc
+VisualStudio Bootstrapper:25/09/2019 22:08:41: LayoutLocation = 
+VisualStudio Bootstrapper:25/09/2019 22:08:41: ExecutableArguments = /finalizeInstall install --layoutPath "C:\vs2019layout\vsbuildtools2019" --in "C:\vs2019layout\vsbuildtools2019\Response.json" --noweb --locale en-GB --activityId "10fc4a18-1a97-4518-b220-0b2c5ebc9384"
+VisualStudio Bootstrapper:25/09/2019 22:08:41: OSVersion = Microsoft Windows NT 10.0.18362.0
+VisualStudio Bootstrapper:25/09/2019 22:08:41: Starting to detect the existing VS and .NET...
+VisualStudio Bootstrapper:25/09/2019 22:08:41: Finished detecting the existing VS and .Net

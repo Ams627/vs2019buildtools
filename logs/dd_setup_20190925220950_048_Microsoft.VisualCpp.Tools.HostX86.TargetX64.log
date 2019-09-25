@@ -1,0 +1,180 @@
+[1a64:0017][2019-09-25T22:11:31] Opening the package for processing
+[1a64:0017][2019-09-25T22:11:31] Using package payload to get the embedded manifest
+[1a64:0017][2019-09-25T22:11:31] Getting list of files within the package
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/vc.tools.hostx86.targetx64.pkgdef
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/vc.tools.hostx86.targetx64.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\vc.tools.hostx86.targetx64.pkgdef
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/vc.tools.hostx86.targetx64.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\vc.tools.hostx86.targetx64.pkgdef
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\vc.tools.hostx86.targetx64.pkgdef'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Auxiliary/Build/vcvarsx86_amd64.bat
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Auxiliary/Build/vcvarsx86_amd64.bat to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Auxiliary\Build\vcvarsx86_amd64.bat
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Auxiliary/Build/vcvarsx86_amd64.bat to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Auxiliary\Build\vcvarsx86_amd64.bat
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Auxiliary\Build\vcvarsx86_amd64.bat'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/atlprov.dll
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/atlprov.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\atlprov.dll
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/atlprov.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\atlprov.dll
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\atlprov.dll'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/bscmake.exe
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/bscmake.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\bscmake.exe
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/bscmake.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\bscmake.exe
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\bscmake.exe'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/c1.dll
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/c1.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\c1.dll
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/c1.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\c1.dll
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\c1.dll'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/c1xx.dll
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/c1xx.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\c1xx.dll
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/c1xx.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\c1xx.dll
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\c1xx.dll'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/c2.dll
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/c2.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\c2.dll
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/c2.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\c2.dll
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\c2.dll'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/cl.exe
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/cl.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\cl.exe
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/cl.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\cl.exe
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\cl.exe'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/cl.exe.config
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/cl.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\cl.exe.config
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/cl.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\cl.exe.config
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\cl.exe.config'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/cvtres.exe
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/cvtres.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\cvtres.exe
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/cvtres.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\cvtres.exe
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\cvtres.exe'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/d3dcompiler_47.dll
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/d3dcompiler_47.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\d3dcompiler_47.dll
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/d3dcompiler_47.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\d3dcompiler_47.dll
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\d3dcompiler_47.dll'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/dpcmi.dll
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/dpcmi.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\dpcmi.dll
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/dpcmi.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\dpcmi.dll
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\dpcmi.dll'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/dumpbin.exe
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/dumpbin.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\dumpbin.exe
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/dumpbin.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\dumpbin.exe
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\dumpbin.exe'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/editbin.exe
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/editbin.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\editbin.exe
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/editbin.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\editbin.exe
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\editbin.exe'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/ifc.exe
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/ifc.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\ifc.exe
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/ifc.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\ifc.exe
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\ifc.exe'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/lib.exe
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/lib.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\lib.exe
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/lib.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\lib.exe
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\lib.exe'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/link.exe
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/link.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\link.exe
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/link.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\link.exe
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\link.exe'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/link.exe.config
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/link.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\link.exe.config
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/link.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\link.exe.config
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\link.exe.config'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/Microsoft.Diagnostics.Tracing.EventSource.dll
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/Microsoft.Diagnostics.Tracing.EventSource.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\Microsoft.Diagnostics.Tracing.EventSource.dll
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/Microsoft.Diagnostics.Tracing.EventSource.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\Microsoft.Diagnostics.Tracing.EventSource.dll
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\Microsoft.Diagnostics.Tracing.EventSource.dll'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/Microsoft.VisualStudio.RemoteControl.dll
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/Microsoft.VisualStudio.RemoteControl.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\Microsoft.VisualStudio.RemoteControl.dll
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/Microsoft.VisualStudio.RemoteControl.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\Microsoft.VisualStudio.RemoteControl.dll
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\Microsoft.VisualStudio.RemoteControl.dll'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/Microsoft.VisualStudio.Telemetry.dll
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/Microsoft.VisualStudio.Telemetry.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\Microsoft.VisualStudio.Telemetry.dll
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/Microsoft.VisualStudio.Telemetry.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\Microsoft.VisualStudio.Telemetry.dll
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\Microsoft.VisualStudio.Telemetry.dll'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/Microsoft.VisualStudio.Utilities.Internal.dll
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/Microsoft.VisualStudio.Utilities.Internal.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\Microsoft.VisualStudio.Utilities.Internal.dll
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/Microsoft.VisualStudio.Utilities.Internal.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\Microsoft.VisualStudio.Utilities.Internal.dll
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\Microsoft.VisualStudio.Utilities.Internal.dll'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/ml64.exe
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/ml64.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\ml64.exe
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/ml64.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\ml64.exe
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\ml64.exe'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/msobj140.dll
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/msobj140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\msobj140.dll
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/msobj140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\msobj140.dll
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\msobj140.dll'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/mspdb140.dll
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/mspdb140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\mspdb140.dll
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/mspdb140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\mspdb140.dll
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\mspdb140.dll'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/mspdbcmf.exe
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/mspdbcmf.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\mspdbcmf.exe
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/mspdbcmf.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\mspdbcmf.exe
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\mspdbcmf.exe'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/mspdbcore.dll
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/mspdbcore.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\mspdbcore.dll
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/mspdbcore.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\mspdbcore.dll
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\mspdbcore.dll'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/mspdbsrv.exe
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/mspdbsrv.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\mspdbsrv.exe
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/mspdbsrv.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\mspdbsrv.exe
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\mspdbsrv.exe'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/mspdbst.dll
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/mspdbst.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\mspdbst.dll
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/mspdbst.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\mspdbst.dll
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\mspdbst.dll'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/mspft140.dll
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/mspft140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\mspft140.dll
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/mspft140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\mspft140.dll
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\mspft140.dll'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/msvcdis140.dll
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/msvcdis140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\msvcdis140.dll
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/msvcdis140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\msvcdis140.dll
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\msvcdis140.dll'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/msvcp140.dll
+[1a64:0017][2019-09-25T22:11:31] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/msvcp140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\msvcp140.dll
+[1a64:0017][2019-09-25T22:11:31] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/msvcp140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\msvcp140.dll
+[1a64:0017][2019-09-25T22:11:31] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\msvcp140.dll'.
+[1a64:0017][2019-09-25T22:11:31] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/msvcp140_1.dll
+[1a64:0017][2019-09-25T22:11:32] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/msvcp140_1.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\msvcp140_1.dll
+[1a64:0017][2019-09-25T22:11:32] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/msvcp140_1.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\msvcp140_1.dll
+[1a64:0017][2019-09-25T22:11:32] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\msvcp140_1.dll'.
+[1a64:0017][2019-09-25T22:11:32] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/msvcp140_2.dll
+[1a64:0017][2019-09-25T22:11:32] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/msvcp140_2.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\msvcp140_2.dll
+[1a64:0017][2019-09-25T22:11:32] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/msvcp140_2.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\msvcp140_2.dll
+[1a64:0017][2019-09-25T22:11:32] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\msvcp140_2.dll'.
+[1a64:0017][2019-09-25T22:11:32] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/msvcp140_codecvt_ids.dll
+[1a64:0017][2019-09-25T22:11:32] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/msvcp140_codecvt_ids.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\msvcp140_codecvt_ids.dll
+[1a64:0017][2019-09-25T22:11:32] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/msvcp140_codecvt_ids.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\msvcp140_codecvt_ids.dll
+[1a64:0017][2019-09-25T22:11:32] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\msvcp140_codecvt_ids.dll'.
+[1a64:0017][2019-09-25T22:11:32] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/Newtonsoft.Json.dll
+[1a64:0017][2019-09-25T22:11:32] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/Newtonsoft.Json.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\Newtonsoft.Json.dll
+[1a64:0017][2019-09-25T22:11:32] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/Newtonsoft.Json.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\Newtonsoft.Json.dll
+[1a64:0017][2019-09-25T22:11:32] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\Newtonsoft.Json.dll'.
+[1a64:0017][2019-09-25T22:11:32] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/nmake.exe
+[1a64:0017][2019-09-25T22:11:32] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/nmake.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\nmake.exe
+[1a64:0017][2019-09-25T22:11:32] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/nmake.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\nmake.exe
+[1a64:0017][2019-09-25T22:11:32] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\nmake.exe'.
+[1a64:0017][2019-09-25T22:11:32] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/tbbmalloc.dll
+[1a64:0017][2019-09-25T22:11:32] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/tbbmalloc.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\tbbmalloc.dll
+[1a64:0017][2019-09-25T22:11:32] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/tbbmalloc.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\tbbmalloc.dll
+[1a64:0017][2019-09-25T22:11:32] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\tbbmalloc.dll'.
+[1a64:0017][2019-09-25T22:11:32] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/undname.exe
+[1a64:0017][2019-09-25T22:11:32] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/undname.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\undname.exe
+[1a64:0017][2019-09-25T22:11:32] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/undname.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\undname.exe
+[1a64:0017][2019-09-25T22:11:32] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\undname.exe'.
+[1a64:0017][2019-09-25T22:11:32] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/vcmeta.dll
+[1a64:0017][2019-09-25T22:11:32] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/vcmeta.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\vcmeta.dll
+[1a64:0017][2019-09-25T22:11:32] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/vcmeta.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\vcmeta.dll
+[1a64:0017][2019-09-25T22:11:32] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\vcmeta.dll'.
+[1a64:0017][2019-09-25T22:11:32] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/vcruntime140.dll
+[1a64:0017][2019-09-25T22:11:32] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/vcruntime140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\vcruntime140.dll
+[1a64:0017][2019-09-25T22:11:32] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/vcruntime140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\vcruntime140.dll
+[1a64:0017][2019-09-25T22:11:32] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\vcruntime140.dll'.
+[1a64:0017][2019-09-25T22:11:32] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/vctip.exe
+[1a64:0017][2019-09-25T22:11:32] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/vctip.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\vctip.exe
+[1a64:0017][2019-09-25T22:11:32] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/vctip.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\vctip.exe
+[1a64:0017][2019-09-25T22:11:32] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\vctip.exe'.
+[1a64:0017][2019-09-25T22:11:32] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/xdcmake.exe
+[1a64:0017][2019-09-25T22:11:32] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/xdcmake.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\xdcmake.exe
+[1a64:0017][2019-09-25T22:11:32] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/xdcmake.exe to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\xdcmake.exe
+[1a64:0017][2019-09-25T22:11:32] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\xdcmake.exe'.
+[1a64:0017][2019-09-25T22:11:32] Processing file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/xdcmake.exe.config
+[1a64:0017][2019-09-25T22:11:32] Started: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/xdcmake.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\xdcmake.exe.config
+[1a64:0017][2019-09-25T22:11:32] Completed: Copying file /Contents/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x64/xdcmake.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\xdcmake.exe.config
+[1a64:0017][2019-09-25T22:11:32] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.23.28105\bin\Hostx86\x64\xdcmake.exe.config'.
+[1a64:0017][2019-09-25T22:11:32] Package executed successfully. Return code: 0
